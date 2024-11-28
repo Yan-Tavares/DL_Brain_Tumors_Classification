@@ -1,0 +1,8294 @@
+{
+    "0.jpg": {
+        "class": "glioma"
+    },
+    "1.jpg": {
+        "class": "glioma"
+    },
+    "2.jpg": {
+        "class": "glioma"
+    },
+    "3.jpg": {
+        "class": "glioma"
+    },
+    "4.jpg": {
+        "class": "glioma"
+    },
+    "5.jpg": {
+        "class": "glioma"
+    },
+    "6.jpg": {
+        "class": "glioma"
+    },
+    "7.jpg": {
+        "class": "glioma"
+    },
+    "8.jpg": {
+        "class": "glioma"
+    },
+    "9.jpg": {
+        "class": "glioma"
+    },
+    "10.jpg": {
+        "class": "glioma"
+    },
+    "11.jpg": {
+        "class": "glioma"
+    },
+    "12.jpg": {
+        "class": "glioma"
+    },
+    "13.jpg": {
+        "class": "glioma"
+    },
+    "14.jpg": {
+        "class": "glioma"
+    },
+    "15.jpg": {
+        "class": "glioma"
+    },
+    "16.jpg": {
+        "class": "glioma"
+    },
+    "17.jpg": {
+        "class": "glioma"
+    },
+    "18.jpg": {
+        "class": "glioma"
+    },
+    "19.jpg": {
+        "class": "glioma"
+    },
+    "20.jpg": {
+        "class": "glioma"
+    },
+    "21.jpg": {
+        "class": "glioma"
+    },
+    "22.jpg": {
+        "class": "glioma"
+    },
+    "23.jpg": {
+        "class": "glioma"
+    },
+    "24.jpg": {
+        "class": "glioma"
+    },
+    "25.jpg": {
+        "class": "glioma"
+    },
+    "26.jpg": {
+        "class": "glioma"
+    },
+    "27.jpg": {
+        "class": "glioma"
+    },
+    "28.jpg": {
+        "class": "glioma"
+    },
+    "29.jpg": {
+        "class": "glioma"
+    },
+    "30.jpg": {
+        "class": "glioma"
+    },
+    "31.jpg": {
+        "class": "glioma"
+    },
+    "32.jpg": {
+        "class": "glioma"
+    },
+    "33.jpg": {
+        "class": "glioma"
+    },
+    "34.jpg": {
+        "class": "glioma"
+    },
+    "35.jpg": {
+        "class": "glioma"
+    },
+    "36.jpg": {
+        "class": "glioma"
+    },
+    "37.jpg": {
+        "class": "glioma"
+    },
+    "38.jpg": {
+        "class": "glioma"
+    },
+    "39.jpg": {
+        "class": "glioma"
+    },
+    "40.jpg": {
+        "class": "glioma"
+    },
+    "41.jpg": {
+        "class": "glioma"
+    },
+    "42.jpg": {
+        "class": "glioma"
+    },
+    "43.jpg": {
+        "class": "glioma"
+    },
+    "44.jpg": {
+        "class": "glioma"
+    },
+    "45.jpg": {
+        "class": "glioma"
+    },
+    "46.jpg": {
+        "class": "glioma"
+    },
+    "47.jpg": {
+        "class": "glioma"
+    },
+    "48.jpg": {
+        "class": "glioma"
+    },
+    "49.jpg": {
+        "class": "glioma"
+    },
+    "50.jpg": {
+        "class": "glioma"
+    },
+    "51.jpg": {
+        "class": "glioma"
+    },
+    "52.jpg": {
+        "class": "glioma"
+    },
+    "53.jpg": {
+        "class": "glioma"
+    },
+    "54.jpg": {
+        "class": "glioma"
+    },
+    "55.jpg": {
+        "class": "glioma"
+    },
+    "56.jpg": {
+        "class": "glioma"
+    },
+    "57.jpg": {
+        "class": "glioma"
+    },
+    "58.jpg": {
+        "class": "glioma"
+    },
+    "59.jpg": {
+        "class": "glioma"
+    },
+    "60.jpg": {
+        "class": "glioma"
+    },
+    "61.jpg": {
+        "class": "glioma"
+    },
+    "62.jpg": {
+        "class": "glioma"
+    },
+    "63.jpg": {
+        "class": "glioma"
+    },
+    "64.jpg": {
+        "class": "glioma"
+    },
+    "65.jpg": {
+        "class": "glioma"
+    },
+    "66.jpg": {
+        "class": "glioma"
+    },
+    "67.jpg": {
+        "class": "glioma"
+    },
+    "68.jpg": {
+        "class": "glioma"
+    },
+    "69.jpg": {
+        "class": "glioma"
+    },
+    "70.jpg": {
+        "class": "glioma"
+    },
+    "71.jpg": {
+        "class": "glioma"
+    },
+    "72.jpg": {
+        "class": "glioma"
+    },
+    "73.jpg": {
+        "class": "glioma"
+    },
+    "74.jpg": {
+        "class": "glioma"
+    },
+    "75.jpg": {
+        "class": "glioma"
+    },
+    "76.jpg": {
+        "class": "glioma"
+    },
+    "77.jpg": {
+        "class": "glioma"
+    },
+    "78.jpg": {
+        "class": "glioma"
+    },
+    "79.jpg": {
+        "class": "glioma"
+    },
+    "80.jpg": {
+        "class": "glioma"
+    },
+    "81.jpg": {
+        "class": "glioma"
+    },
+    "82.jpg": {
+        "class": "glioma"
+    },
+    "83.jpg": {
+        "class": "glioma"
+    },
+    "84.jpg": {
+        "class": "glioma"
+    },
+    "85.jpg": {
+        "class": "glioma"
+    },
+    "86.jpg": {
+        "class": "glioma"
+    },
+    "87.jpg": {
+        "class": "glioma"
+    },
+    "88.jpg": {
+        "class": "glioma"
+    },
+    "89.jpg": {
+        "class": "glioma"
+    },
+    "90.jpg": {
+        "class": "glioma"
+    },
+    "91.jpg": {
+        "class": "glioma"
+    },
+    "92.jpg": {
+        "class": "glioma"
+    },
+    "93.jpg": {
+        "class": "glioma"
+    },
+    "94.jpg": {
+        "class": "glioma"
+    },
+    "95.jpg": {
+        "class": "glioma"
+    },
+    "96.jpg": {
+        "class": "glioma"
+    },
+    "97.jpg": {
+        "class": "glioma"
+    },
+    "98.jpg": {
+        "class": "glioma"
+    },
+    "99.jpg": {
+        "class": "glioma"
+    },
+    "100.jpg": {
+        "class": "glioma"
+    },
+    "101.jpg": {
+        "class": "glioma"
+    },
+    "102.jpg": {
+        "class": "glioma"
+    },
+    "103.jpg": {
+        "class": "glioma"
+    },
+    "104.jpg": {
+        "class": "glioma"
+    },
+    "105.jpg": {
+        "class": "glioma"
+    },
+    "106.jpg": {
+        "class": "glioma"
+    },
+    "107.jpg": {
+        "class": "glioma"
+    },
+    "108.jpg": {
+        "class": "glioma"
+    },
+    "109.jpg": {
+        "class": "glioma"
+    },
+    "110.jpg": {
+        "class": "glioma"
+    },
+    "111.jpg": {
+        "class": "glioma"
+    },
+    "112.jpg": {
+        "class": "glioma"
+    },
+    "113.jpg": {
+        "class": "glioma"
+    },
+    "114.jpg": {
+        "class": "glioma"
+    },
+    "115.jpg": {
+        "class": "glioma"
+    },
+    "116.jpg": {
+        "class": "glioma"
+    },
+    "117.jpg": {
+        "class": "glioma"
+    },
+    "118.jpg": {
+        "class": "glioma"
+    },
+    "119.jpg": {
+        "class": "glioma"
+    },
+    "120.jpg": {
+        "class": "glioma"
+    },
+    "121.jpg": {
+        "class": "glioma"
+    },
+    "122.jpg": {
+        "class": "glioma"
+    },
+    "123.jpg": {
+        "class": "glioma"
+    },
+    "124.jpg": {
+        "class": "glioma"
+    },
+    "125.jpg": {
+        "class": "glioma"
+    },
+    "126.jpg": {
+        "class": "glioma"
+    },
+    "127.jpg": {
+        "class": "glioma"
+    },
+    "128.jpg": {
+        "class": "glioma"
+    },
+    "129.jpg": {
+        "class": "glioma"
+    },
+    "130.jpg": {
+        "class": "glioma"
+    },
+    "131.jpg": {
+        "class": "glioma"
+    },
+    "132.jpg": {
+        "class": "glioma"
+    },
+    "133.jpg": {
+        "class": "glioma"
+    },
+    "134.jpg": {
+        "class": "glioma"
+    },
+    "135.jpg": {
+        "class": "glioma"
+    },
+    "136.jpg": {
+        "class": "glioma"
+    },
+    "137.jpg": {
+        "class": "glioma"
+    },
+    "138.jpg": {
+        "class": "glioma"
+    },
+    "139.jpg": {
+        "class": "glioma"
+    },
+    "140.jpg": {
+        "class": "glioma"
+    },
+    "141.jpg": {
+        "class": "glioma"
+    },
+    "142.jpg": {
+        "class": "glioma"
+    },
+    "143.jpg": {
+        "class": "glioma"
+    },
+    "144.jpg": {
+        "class": "glioma"
+    },
+    "145.jpg": {
+        "class": "glioma"
+    },
+    "146.jpg": {
+        "class": "glioma"
+    },
+    "147.jpg": {
+        "class": "glioma"
+    },
+    "148.jpg": {
+        "class": "glioma"
+    },
+    "149.jpg": {
+        "class": "glioma"
+    },
+    "150.jpg": {
+        "class": "glioma"
+    },
+    "151.jpg": {
+        "class": "glioma"
+    },
+    "152.jpg": {
+        "class": "glioma"
+    },
+    "153.jpg": {
+        "class": "glioma"
+    },
+    "154.jpg": {
+        "class": "glioma"
+    },
+    "155.jpg": {
+        "class": "glioma"
+    },
+    "156.jpg": {
+        "class": "glioma"
+    },
+    "157.jpg": {
+        "class": "glioma"
+    },
+    "158.jpg": {
+        "class": "glioma"
+    },
+    "159.jpg": {
+        "class": "glioma"
+    },
+    "160.jpg": {
+        "class": "glioma"
+    },
+    "161.jpg": {
+        "class": "glioma"
+    },
+    "162.jpg": {
+        "class": "glioma"
+    },
+    "163.jpg": {
+        "class": "glioma"
+    },
+    "164.jpg": {
+        "class": "glioma"
+    },
+    "165.jpg": {
+        "class": "glioma"
+    },
+    "166.jpg": {
+        "class": "glioma"
+    },
+    "167.jpg": {
+        "class": "glioma"
+    },
+    "168.jpg": {
+        "class": "glioma"
+    },
+    "169.jpg": {
+        "class": "glioma"
+    },
+    "170.jpg": {
+        "class": "glioma"
+    },
+    "171.jpg": {
+        "class": "glioma"
+    },
+    "172.jpg": {
+        "class": "glioma"
+    },
+    "173.jpg": {
+        "class": "glioma"
+    },
+    "174.jpg": {
+        "class": "glioma"
+    },
+    "175.jpg": {
+        "class": "glioma"
+    },
+    "176.jpg": {
+        "class": "glioma"
+    },
+    "177.jpg": {
+        "class": "glioma"
+    },
+    "178.jpg": {
+        "class": "glioma"
+    },
+    "179.jpg": {
+        "class": "glioma"
+    },
+    "180.jpg": {
+        "class": "glioma"
+    },
+    "181.jpg": {
+        "class": "glioma"
+    },
+    "182.jpg": {
+        "class": "glioma"
+    },
+    "183.jpg": {
+        "class": "glioma"
+    },
+    "184.jpg": {
+        "class": "glioma"
+    },
+    "185.jpg": {
+        "class": "glioma"
+    },
+    "186.jpg": {
+        "class": "glioma"
+    },
+    "187.jpg": {
+        "class": "glioma"
+    },
+    "188.jpg": {
+        "class": "glioma"
+    },
+    "189.jpg": {
+        "class": "glioma"
+    },
+    "190.jpg": {
+        "class": "glioma"
+    },
+    "191.jpg": {
+        "class": "glioma"
+    },
+    "192.jpg": {
+        "class": "glioma"
+    },
+    "193.jpg": {
+        "class": "glioma"
+    },
+    "194.jpg": {
+        "class": "glioma"
+    },
+    "195.jpg": {
+        "class": "glioma"
+    },
+    "196.jpg": {
+        "class": "glioma"
+    },
+    "197.jpg": {
+        "class": "glioma"
+    },
+    "198.jpg": {
+        "class": "glioma"
+    },
+    "199.jpg": {
+        "class": "glioma"
+    },
+    "200.jpg": {
+        "class": "glioma"
+    },
+    "201.jpg": {
+        "class": "glioma"
+    },
+    "202.jpg": {
+        "class": "glioma"
+    },
+    "203.jpg": {
+        "class": "glioma"
+    },
+    "204.jpg": {
+        "class": "glioma"
+    },
+    "205.jpg": {
+        "class": "glioma"
+    },
+    "206.jpg": {
+        "class": "glioma"
+    },
+    "207.jpg": {
+        "class": "glioma"
+    },
+    "208.jpg": {
+        "class": "glioma"
+    },
+    "209.jpg": {
+        "class": "glioma"
+    },
+    "210.jpg": {
+        "class": "glioma"
+    },
+    "211.jpg": {
+        "class": "glioma"
+    },
+    "212.jpg": {
+        "class": "glioma"
+    },
+    "213.jpg": {
+        "class": "glioma"
+    },
+    "214.jpg": {
+        "class": "glioma"
+    },
+    "215.jpg": {
+        "class": "glioma"
+    },
+    "216.jpg": {
+        "class": "glioma"
+    },
+    "217.jpg": {
+        "class": "glioma"
+    },
+    "218.jpg": {
+        "class": "glioma"
+    },
+    "219.jpg": {
+        "class": "glioma"
+    },
+    "220.jpg": {
+        "class": "glioma"
+    },
+    "221.jpg": {
+        "class": "glioma"
+    },
+    "222.jpg": {
+        "class": "glioma"
+    },
+    "223.jpg": {
+        "class": "glioma"
+    },
+    "224.jpg": {
+        "class": "glioma"
+    },
+    "225.jpg": {
+        "class": "glioma"
+    },
+    "226.jpg": {
+        "class": "glioma"
+    },
+    "227.jpg": {
+        "class": "glioma"
+    },
+    "228.jpg": {
+        "class": "glioma"
+    },
+    "229.jpg": {
+        "class": "glioma"
+    },
+    "230.jpg": {
+        "class": "glioma"
+    },
+    "231.jpg": {
+        "class": "glioma"
+    },
+    "232.jpg": {
+        "class": "glioma"
+    },
+    "233.jpg": {
+        "class": "glioma"
+    },
+    "234.jpg": {
+        "class": "glioma"
+    },
+    "235.jpg": {
+        "class": "glioma"
+    },
+    "236.jpg": {
+        "class": "glioma"
+    },
+    "237.jpg": {
+        "class": "glioma"
+    },
+    "238.jpg": {
+        "class": "glioma"
+    },
+    "239.jpg": {
+        "class": "glioma"
+    },
+    "240.jpg": {
+        "class": "glioma"
+    },
+    "241.jpg": {
+        "class": "glioma"
+    },
+    "242.jpg": {
+        "class": "glioma"
+    },
+    "243.jpg": {
+        "class": "glioma"
+    },
+    "244.jpg": {
+        "class": "glioma"
+    },
+    "245.jpg": {
+        "class": "glioma"
+    },
+    "246.jpg": {
+        "class": "glioma"
+    },
+    "247.jpg": {
+        "class": "glioma"
+    },
+    "248.jpg": {
+        "class": "glioma"
+    },
+    "249.jpg": {
+        "class": "glioma"
+    },
+    "250.jpg": {
+        "class": "glioma"
+    },
+    "251.jpg": {
+        "class": "glioma"
+    },
+    "252.jpg": {
+        "class": "glioma"
+    },
+    "253.jpg": {
+        "class": "glioma"
+    },
+    "254.jpg": {
+        "class": "glioma"
+    },
+    "255.jpg": {
+        "class": "glioma"
+    },
+    "256.jpg": {
+        "class": "glioma"
+    },
+    "257.jpg": {
+        "class": "glioma"
+    },
+    "258.jpg": {
+        "class": "glioma"
+    },
+    "259.jpg": {
+        "class": "glioma"
+    },
+    "260.jpg": {
+        "class": "glioma"
+    },
+    "261.jpg": {
+        "class": "glioma"
+    },
+    "262.jpg": {
+        "class": "glioma"
+    },
+    "263.jpg": {
+        "class": "glioma"
+    },
+    "264.jpg": {
+        "class": "glioma"
+    },
+    "265.jpg": {
+        "class": "glioma"
+    },
+    "266.jpg": {
+        "class": "glioma"
+    },
+    "267.jpg": {
+        "class": "glioma"
+    },
+    "268.jpg": {
+        "class": "glioma"
+    },
+    "269.jpg": {
+        "class": "glioma"
+    },
+    "270.jpg": {
+        "class": "glioma"
+    },
+    "271.jpg": {
+        "class": "glioma"
+    },
+    "272.jpg": {
+        "class": "glioma"
+    },
+    "273.jpg": {
+        "class": "glioma"
+    },
+    "274.jpg": {
+        "class": "glioma"
+    },
+    "275.jpg": {
+        "class": "glioma"
+    },
+    "276.jpg": {
+        "class": "glioma"
+    },
+    "277.jpg": {
+        "class": "glioma"
+    },
+    "278.jpg": {
+        "class": "glioma"
+    },
+    "279.jpg": {
+        "class": "glioma"
+    },
+    "280.jpg": {
+        "class": "glioma"
+    },
+    "281.jpg": {
+        "class": "glioma"
+    },
+    "282.jpg": {
+        "class": "glioma"
+    },
+    "283.jpg": {
+        "class": "glioma"
+    },
+    "284.jpg": {
+        "class": "glioma"
+    },
+    "285.jpg": {
+        "class": "glioma"
+    },
+    "286.jpg": {
+        "class": "glioma"
+    },
+    "287.jpg": {
+        "class": "glioma"
+    },
+    "288.jpg": {
+        "class": "glioma"
+    },
+    "289.jpg": {
+        "class": "glioma"
+    },
+    "290.jpg": {
+        "class": "glioma"
+    },
+    "291.jpg": {
+        "class": "glioma"
+    },
+    "292.jpg": {
+        "class": "glioma"
+    },
+    "293.jpg": {
+        "class": "glioma"
+    },
+    "294.jpg": {
+        "class": "glioma"
+    },
+    "295.jpg": {
+        "class": "glioma"
+    },
+    "296.jpg": {
+        "class": "glioma"
+    },
+    "297.jpg": {
+        "class": "glioma"
+    },
+    "298.jpg": {
+        "class": "glioma"
+    },
+    "299.jpg": {
+        "class": "glioma"
+    },
+    "300.jpg": {
+        "class": "glioma"
+    },
+    "301.jpg": {
+        "class": "glioma"
+    },
+    "302.jpg": {
+        "class": "glioma"
+    },
+    "303.jpg": {
+        "class": "glioma"
+    },
+    "304.jpg": {
+        "class": "glioma"
+    },
+    "305.jpg": {
+        "class": "glioma"
+    },
+    "306.jpg": {
+        "class": "glioma"
+    },
+    "307.jpg": {
+        "class": "glioma"
+    },
+    "308.jpg": {
+        "class": "glioma"
+    },
+    "309.jpg": {
+        "class": "glioma"
+    },
+    "310.jpg": {
+        "class": "glioma"
+    },
+    "311.jpg": {
+        "class": "glioma"
+    },
+    "312.jpg": {
+        "class": "glioma"
+    },
+    "313.jpg": {
+        "class": "glioma"
+    },
+    "314.jpg": {
+        "class": "glioma"
+    },
+    "315.jpg": {
+        "class": "glioma"
+    },
+    "316.jpg": {
+        "class": "glioma"
+    },
+    "317.jpg": {
+        "class": "glioma"
+    },
+    "318.jpg": {
+        "class": "glioma"
+    },
+    "319.jpg": {
+        "class": "glioma"
+    },
+    "320.jpg": {
+        "class": "glioma"
+    },
+    "321.jpg": {
+        "class": "glioma"
+    },
+    "322.jpg": {
+        "class": "glioma"
+    },
+    "323.jpg": {
+        "class": "glioma"
+    },
+    "324.jpg": {
+        "class": "glioma"
+    },
+    "325.jpg": {
+        "class": "glioma"
+    },
+    "326.jpg": {
+        "class": "glioma"
+    },
+    "327.jpg": {
+        "class": "glioma"
+    },
+    "328.jpg": {
+        "class": "glioma"
+    },
+    "329.jpg": {
+        "class": "glioma"
+    },
+    "330.jpg": {
+        "class": "glioma"
+    },
+    "331.jpg": {
+        "class": "glioma"
+    },
+    "332.jpg": {
+        "class": "glioma"
+    },
+    "333.jpg": {
+        "class": "glioma"
+    },
+    "334.jpg": {
+        "class": "glioma"
+    },
+    "335.jpg": {
+        "class": "glioma"
+    },
+    "336.jpg": {
+        "class": "glioma"
+    },
+    "337.jpg": {
+        "class": "glioma"
+    },
+    "338.jpg": {
+        "class": "glioma"
+    },
+    "339.jpg": {
+        "class": "glioma"
+    },
+    "340.jpg": {
+        "class": "glioma"
+    },
+    "341.jpg": {
+        "class": "glioma"
+    },
+    "342.jpg": {
+        "class": "glioma"
+    },
+    "343.jpg": {
+        "class": "glioma"
+    },
+    "344.jpg": {
+        "class": "glioma"
+    },
+    "345.jpg": {
+        "class": "glioma"
+    },
+    "346.jpg": {
+        "class": "glioma"
+    },
+    "347.jpg": {
+        "class": "glioma"
+    },
+    "348.jpg": {
+        "class": "glioma"
+    },
+    "349.jpg": {
+        "class": "glioma"
+    },
+    "350.jpg": {
+        "class": "glioma"
+    },
+    "351.jpg": {
+        "class": "glioma"
+    },
+    "352.jpg": {
+        "class": "glioma"
+    },
+    "353.jpg": {
+        "class": "glioma"
+    },
+    "354.jpg": {
+        "class": "glioma"
+    },
+    "355.jpg": {
+        "class": "glioma"
+    },
+    "356.jpg": {
+        "class": "glioma"
+    },
+    "357.jpg": {
+        "class": "glioma"
+    },
+    "358.jpg": {
+        "class": "glioma"
+    },
+    "359.jpg": {
+        "class": "glioma"
+    },
+    "360.jpg": {
+        "class": "glioma"
+    },
+    "361.jpg": {
+        "class": "glioma"
+    },
+    "362.jpg": {
+        "class": "glioma"
+    },
+    "363.jpg": {
+        "class": "glioma"
+    },
+    "364.jpg": {
+        "class": "glioma"
+    },
+    "365.jpg": {
+        "class": "glioma"
+    },
+    "366.jpg": {
+        "class": "glioma"
+    },
+    "367.jpg": {
+        "class": "glioma"
+    },
+    "368.jpg": {
+        "class": "glioma"
+    },
+    "369.jpg": {
+        "class": "glioma"
+    },
+    "370.jpg": {
+        "class": "glioma"
+    },
+    "371.jpg": {
+        "class": "glioma"
+    },
+    "372.jpg": {
+        "class": "glioma"
+    },
+    "373.jpg": {
+        "class": "glioma"
+    },
+    "374.jpg": {
+        "class": "glioma"
+    },
+    "375.jpg": {
+        "class": "glioma"
+    },
+    "376.jpg": {
+        "class": "glioma"
+    },
+    "377.jpg": {
+        "class": "glioma"
+    },
+    "378.jpg": {
+        "class": "glioma"
+    },
+    "379.jpg": {
+        "class": "glioma"
+    },
+    "380.jpg": {
+        "class": "glioma"
+    },
+    "381.jpg": {
+        "class": "glioma"
+    },
+    "382.jpg": {
+        "class": "glioma"
+    },
+    "383.jpg": {
+        "class": "glioma"
+    },
+    "384.jpg": {
+        "class": "glioma"
+    },
+    "385.jpg": {
+        "class": "glioma"
+    },
+    "386.jpg": {
+        "class": "glioma"
+    },
+    "387.jpg": {
+        "class": "glioma"
+    },
+    "388.jpg": {
+        "class": "glioma"
+    },
+    "389.jpg": {
+        "class": "glioma"
+    },
+    "390.jpg": {
+        "class": "glioma"
+    },
+    "391.jpg": {
+        "class": "glioma"
+    },
+    "392.jpg": {
+        "class": "glioma"
+    },
+    "393.jpg": {
+        "class": "glioma"
+    },
+    "394.jpg": {
+        "class": "glioma"
+    },
+    "395.jpg": {
+        "class": "glioma"
+    },
+    "396.jpg": {
+        "class": "glioma"
+    },
+    "397.jpg": {
+        "class": "glioma"
+    },
+    "398.jpg": {
+        "class": "glioma"
+    },
+    "399.jpg": {
+        "class": "glioma"
+    },
+    "400.jpg": {
+        "class": "glioma"
+    },
+    "401.jpg": {
+        "class": "glioma"
+    },
+    "402.jpg": {
+        "class": "glioma"
+    },
+    "403.jpg": {
+        "class": "glioma"
+    },
+    "404.jpg": {
+        "class": "glioma"
+    },
+    "405.jpg": {
+        "class": "glioma"
+    },
+    "406.jpg": {
+        "class": "glioma"
+    },
+    "407.jpg": {
+        "class": "glioma"
+    },
+    "408.jpg": {
+        "class": "glioma"
+    },
+    "409.jpg": {
+        "class": "glioma"
+    },
+    "410.jpg": {
+        "class": "glioma"
+    },
+    "411.jpg": {
+        "class": "glioma"
+    },
+    "412.jpg": {
+        "class": "glioma"
+    },
+    "413.jpg": {
+        "class": "glioma"
+    },
+    "414.jpg": {
+        "class": "glioma"
+    },
+    "415.jpg": {
+        "class": "glioma"
+    },
+    "416.jpg": {
+        "class": "glioma"
+    },
+    "417.jpg": {
+        "class": "glioma"
+    },
+    "418.jpg": {
+        "class": "glioma"
+    },
+    "419.jpg": {
+        "class": "glioma"
+    },
+    "420.jpg": {
+        "class": "glioma"
+    },
+    "421.jpg": {
+        "class": "glioma"
+    },
+    "422.jpg": {
+        "class": "glioma"
+    },
+    "423.jpg": {
+        "class": "glioma"
+    },
+    "424.jpg": {
+        "class": "glioma"
+    },
+    "425.jpg": {
+        "class": "glioma"
+    },
+    "426.jpg": {
+        "class": "glioma"
+    },
+    "427.jpg": {
+        "class": "glioma"
+    },
+    "428.jpg": {
+        "class": "glioma"
+    },
+    "429.jpg": {
+        "class": "glioma"
+    },
+    "430.jpg": {
+        "class": "glioma"
+    },
+    "431.jpg": {
+        "class": "glioma"
+    },
+    "432.jpg": {
+        "class": "glioma"
+    },
+    "433.jpg": {
+        "class": "glioma"
+    },
+    "434.jpg": {
+        "class": "glioma"
+    },
+    "435.jpg": {
+        "class": "glioma"
+    },
+    "436.jpg": {
+        "class": "glioma"
+    },
+    "437.jpg": {
+        "class": "glioma"
+    },
+    "438.jpg": {
+        "class": "glioma"
+    },
+    "439.jpg": {
+        "class": "glioma"
+    },
+    "440.jpg": {
+        "class": "glioma"
+    },
+    "441.jpg": {
+        "class": "glioma"
+    },
+    "442.jpg": {
+        "class": "glioma"
+    },
+    "443.jpg": {
+        "class": "glioma"
+    },
+    "444.jpg": {
+        "class": "glioma"
+    },
+    "445.jpg": {
+        "class": "glioma"
+    },
+    "446.jpg": {
+        "class": "glioma"
+    },
+    "447.jpg": {
+        "class": "glioma"
+    },
+    "448.jpg": {
+        "class": "glioma"
+    },
+    "449.jpg": {
+        "class": "glioma"
+    },
+    "450.jpg": {
+        "class": "glioma"
+    },
+    "451.jpg": {
+        "class": "glioma"
+    },
+    "452.jpg": {
+        "class": "glioma"
+    },
+    "453.jpg": {
+        "class": "glioma"
+    },
+    "454.jpg": {
+        "class": "glioma"
+    },
+    "455.jpg": {
+        "class": "glioma"
+    },
+    "456.jpg": {
+        "class": "glioma"
+    },
+    "457.jpg": {
+        "class": "glioma"
+    },
+    "458.jpg": {
+        "class": "glioma"
+    },
+    "459.jpg": {
+        "class": "glioma"
+    },
+    "460.jpg": {
+        "class": "glioma"
+    },
+    "461.jpg": {
+        "class": "glioma"
+    },
+    "462.jpg": {
+        "class": "glioma"
+    },
+    "463.jpg": {
+        "class": "glioma"
+    },
+    "464.jpg": {
+        "class": "glioma"
+    },
+    "465.jpg": {
+        "class": "glioma"
+    },
+    "466.jpg": {
+        "class": "glioma"
+    },
+    "467.jpg": {
+        "class": "glioma"
+    },
+    "468.jpg": {
+        "class": "glioma"
+    },
+    "469.jpg": {
+        "class": "glioma"
+    },
+    "470.jpg": {
+        "class": "glioma"
+    },
+    "471.jpg": {
+        "class": "glioma"
+    },
+    "472.jpg": {
+        "class": "glioma"
+    },
+    "473.jpg": {
+        "class": "glioma"
+    },
+    "474.jpg": {
+        "class": "glioma"
+    },
+    "475.jpg": {
+        "class": "glioma"
+    },
+    "476.jpg": {
+        "class": "glioma"
+    },
+    "477.jpg": {
+        "class": "glioma"
+    },
+    "478.jpg": {
+        "class": "glioma"
+    },
+    "479.jpg": {
+        "class": "glioma"
+    },
+    "480.jpg": {
+        "class": "glioma"
+    },
+    "481.jpg": {
+        "class": "glioma"
+    },
+    "482.jpg": {
+        "class": "glioma"
+    },
+    "483.jpg": {
+        "class": "glioma"
+    },
+    "484.jpg": {
+        "class": "glioma"
+    },
+    "485.jpg": {
+        "class": "glioma"
+    },
+    "486.jpg": {
+        "class": "glioma"
+    },
+    "487.jpg": {
+        "class": "glioma"
+    },
+    "488.jpg": {
+        "class": "glioma"
+    },
+    "489.jpg": {
+        "class": "glioma"
+    },
+    "490.jpg": {
+        "class": "glioma"
+    },
+    "491.jpg": {
+        "class": "glioma"
+    },
+    "492.jpg": {
+        "class": "glioma"
+    },
+    "493.jpg": {
+        "class": "glioma"
+    },
+    "494.jpg": {
+        "class": "glioma"
+    },
+    "495.jpg": {
+        "class": "glioma"
+    },
+    "496.jpg": {
+        "class": "glioma"
+    },
+    "497.jpg": {
+        "class": "glioma"
+    },
+    "498.jpg": {
+        "class": "glioma"
+    },
+    "499.jpg": {
+        "class": "glioma"
+    },
+    "500.jpg": {
+        "class": "glioma"
+    },
+    "501.jpg": {
+        "class": "glioma"
+    },
+    "502.jpg": {
+        "class": "glioma"
+    },
+    "503.jpg": {
+        "class": "glioma"
+    },
+    "504.jpg": {
+        "class": "glioma"
+    },
+    "505.jpg": {
+        "class": "glioma"
+    },
+    "506.jpg": {
+        "class": "glioma"
+    },
+    "507.jpg": {
+        "class": "glioma"
+    },
+    "508.jpg": {
+        "class": "glioma"
+    },
+    "509.jpg": {
+        "class": "glioma"
+    },
+    "510.jpg": {
+        "class": "glioma"
+    },
+    "511.jpg": {
+        "class": "glioma"
+    },
+    "512.jpg": {
+        "class": "glioma"
+    },
+    "513.jpg": {
+        "class": "glioma"
+    },
+    "514.jpg": {
+        "class": "glioma"
+    },
+    "515.jpg": {
+        "class": "glioma"
+    },
+    "516.jpg": {
+        "class": "glioma"
+    },
+    "517.jpg": {
+        "class": "glioma"
+    },
+    "518.jpg": {
+        "class": "glioma"
+    },
+    "519.jpg": {
+        "class": "glioma"
+    },
+    "520.jpg": {
+        "class": "glioma"
+    },
+    "521.jpg": {
+        "class": "glioma"
+    },
+    "522.jpg": {
+        "class": "glioma"
+    },
+    "523.jpg": {
+        "class": "glioma"
+    },
+    "524.jpg": {
+        "class": "glioma"
+    },
+    "525.jpg": {
+        "class": "glioma"
+    },
+    "526.jpg": {
+        "class": "glioma"
+    },
+    "527.jpg": {
+        "class": "glioma"
+    },
+    "528.jpg": {
+        "class": "glioma"
+    },
+    "529.jpg": {
+        "class": "glioma"
+    },
+    "530.jpg": {
+        "class": "glioma"
+    },
+    "531.jpg": {
+        "class": "glioma"
+    },
+    "532.jpg": {
+        "class": "glioma"
+    },
+    "533.jpg": {
+        "class": "glioma"
+    },
+    "534.jpg": {
+        "class": "glioma"
+    },
+    "535.jpg": {
+        "class": "glioma"
+    },
+    "536.jpg": {
+        "class": "glioma"
+    },
+    "537.jpg": {
+        "class": "glioma"
+    },
+    "538.jpg": {
+        "class": "glioma"
+    },
+    "539.jpg": {
+        "class": "glioma"
+    },
+    "540.jpg": {
+        "class": "glioma"
+    },
+    "541.jpg": {
+        "class": "glioma"
+    },
+    "542.jpg": {
+        "class": "glioma"
+    },
+    "543.jpg": {
+        "class": "glioma"
+    },
+    "544.jpg": {
+        "class": "glioma"
+    },
+    "545.jpg": {
+        "class": "glioma"
+    },
+    "546.jpg": {
+        "class": "glioma"
+    },
+    "547.jpg": {
+        "class": "glioma"
+    },
+    "548.jpg": {
+        "class": "glioma"
+    },
+    "549.jpg": {
+        "class": "glioma"
+    },
+    "550.jpg": {
+        "class": "glioma"
+    },
+    "551.jpg": {
+        "class": "glioma"
+    },
+    "552.jpg": {
+        "class": "glioma"
+    },
+    "553.jpg": {
+        "class": "glioma"
+    },
+    "554.jpg": {
+        "class": "glioma"
+    },
+    "555.jpg": {
+        "class": "glioma"
+    },
+    "556.jpg": {
+        "class": "glioma"
+    },
+    "557.jpg": {
+        "class": "glioma"
+    },
+    "558.jpg": {
+        "class": "glioma"
+    },
+    "559.jpg": {
+        "class": "glioma"
+    },
+    "560.jpg": {
+        "class": "glioma"
+    },
+    "561.jpg": {
+        "class": "glioma"
+    },
+    "562.jpg": {
+        "class": "glioma"
+    },
+    "563.jpg": {
+        "class": "glioma"
+    },
+    "564.jpg": {
+        "class": "glioma"
+    },
+    "565.jpg": {
+        "class": "glioma"
+    },
+    "566.jpg": {
+        "class": "glioma"
+    },
+    "567.jpg": {
+        "class": "glioma"
+    },
+    "568.jpg": {
+        "class": "glioma"
+    },
+    "569.jpg": {
+        "class": "glioma"
+    },
+    "570.jpg": {
+        "class": "glioma"
+    },
+    "571.jpg": {
+        "class": "glioma"
+    },
+    "572.jpg": {
+        "class": "glioma"
+    },
+    "573.jpg": {
+        "class": "glioma"
+    },
+    "574.jpg": {
+        "class": "glioma"
+    },
+    "575.jpg": {
+        "class": "glioma"
+    },
+    "576.jpg": {
+        "class": "glioma"
+    },
+    "577.jpg": {
+        "class": "glioma"
+    },
+    "578.jpg": {
+        "class": "glioma"
+    },
+    "579.jpg": {
+        "class": "glioma"
+    },
+    "580.jpg": {
+        "class": "glioma"
+    },
+    "581.jpg": {
+        "class": "glioma"
+    },
+    "582.jpg": {
+        "class": "glioma"
+    },
+    "583.jpg": {
+        "class": "glioma"
+    },
+    "584.jpg": {
+        "class": "glioma"
+    },
+    "585.jpg": {
+        "class": "glioma"
+    },
+    "586.jpg": {
+        "class": "glioma"
+    },
+    "587.jpg": {
+        "class": "glioma"
+    },
+    "588.jpg": {
+        "class": "glioma"
+    },
+    "589.jpg": {
+        "class": "glioma"
+    },
+    "590.jpg": {
+        "class": "glioma"
+    },
+    "591.jpg": {
+        "class": "glioma"
+    },
+    "592.jpg": {
+        "class": "glioma"
+    },
+    "593.jpg": {
+        "class": "glioma"
+    },
+    "594.jpg": {
+        "class": "glioma"
+    },
+    "595.jpg": {
+        "class": "glioma"
+    },
+    "596.jpg": {
+        "class": "glioma"
+    },
+    "597.jpg": {
+        "class": "glioma"
+    },
+    "598.jpg": {
+        "class": "glioma"
+    },
+    "599.jpg": {
+        "class": "glioma"
+    },
+    "600.jpg": {
+        "class": "glioma"
+    },
+    "601.jpg": {
+        "class": "glioma"
+    },
+    "602.jpg": {
+        "class": "glioma"
+    },
+    "603.jpg": {
+        "class": "glioma"
+    },
+    "604.jpg": {
+        "class": "glioma"
+    },
+    "605.jpg": {
+        "class": "glioma"
+    },
+    "606.jpg": {
+        "class": "glioma"
+    },
+    "607.jpg": {
+        "class": "glioma"
+    },
+    "608.jpg": {
+        "class": "glioma"
+    },
+    "609.jpg": {
+        "class": "glioma"
+    },
+    "610.jpg": {
+        "class": "glioma"
+    },
+    "611.jpg": {
+        "class": "glioma"
+    },
+    "612.jpg": {
+        "class": "glioma"
+    },
+    "613.jpg": {
+        "class": "glioma"
+    },
+    "614.jpg": {
+        "class": "glioma"
+    },
+    "615.jpg": {
+        "class": "glioma"
+    },
+    "616.jpg": {
+        "class": "glioma"
+    },
+    "617.jpg": {
+        "class": "glioma"
+    },
+    "618.jpg": {
+        "class": "glioma"
+    },
+    "619.jpg": {
+        "class": "glioma"
+    },
+    "620.jpg": {
+        "class": "glioma"
+    },
+    "621.jpg": {
+        "class": "glioma"
+    },
+    "622.jpg": {
+        "class": "glioma"
+    },
+    "623.jpg": {
+        "class": "glioma"
+    },
+    "624.jpg": {
+        "class": "glioma"
+    },
+    "625.jpg": {
+        "class": "glioma"
+    },
+    "626.jpg": {
+        "class": "glioma"
+    },
+    "627.jpg": {
+        "class": "glioma"
+    },
+    "628.jpg": {
+        "class": "glioma"
+    },
+    "629.jpg": {
+        "class": "glioma"
+    },
+    "630.jpg": {
+        "class": "glioma"
+    },
+    "631.jpg": {
+        "class": "glioma"
+    },
+    "632.jpg": {
+        "class": "glioma"
+    },
+    "633.jpg": {
+        "class": "glioma"
+    },
+    "634.jpg": {
+        "class": "glioma"
+    },
+    "635.jpg": {
+        "class": "glioma"
+    },
+    "636.jpg": {
+        "class": "glioma"
+    },
+    "637.jpg": {
+        "class": "glioma"
+    },
+    "638.jpg": {
+        "class": "glioma"
+    },
+    "639.jpg": {
+        "class": "glioma"
+    },
+    "640.jpg": {
+        "class": "glioma"
+    },
+    "641.jpg": {
+        "class": "glioma"
+    },
+    "642.jpg": {
+        "class": "glioma"
+    },
+    "643.jpg": {
+        "class": "glioma"
+    },
+    "644.jpg": {
+        "class": "glioma"
+    },
+    "645.jpg": {
+        "class": "glioma"
+    },
+    "646.jpg": {
+        "class": "glioma"
+    },
+    "647.jpg": {
+        "class": "glioma"
+    },
+    "648.jpg": {
+        "class": "glioma"
+    },
+    "649.jpg": {
+        "class": "glioma"
+    },
+    "650.jpg": {
+        "class": "glioma"
+    },
+    "651.jpg": {
+        "class": "glioma"
+    },
+    "652.jpg": {
+        "class": "glioma"
+    },
+    "653.jpg": {
+        "class": "glioma"
+    },
+    "654.jpg": {
+        "class": "glioma"
+    },
+    "655.jpg": {
+        "class": "glioma"
+    },
+    "656.jpg": {
+        "class": "glioma"
+    },
+    "657.jpg": {
+        "class": "glioma"
+    },
+    "658.jpg": {
+        "class": "glioma"
+    },
+    "659.jpg": {
+        "class": "glioma"
+    },
+    "660.jpg": {
+        "class": "glioma"
+    },
+    "661.jpg": {
+        "class": "glioma"
+    },
+    "662.jpg": {
+        "class": "glioma"
+    },
+    "663.jpg": {
+        "class": "glioma"
+    },
+    "664.jpg": {
+        "class": "glioma"
+    },
+    "665.jpg": {
+        "class": "glioma"
+    },
+    "666.jpg": {
+        "class": "glioma"
+    },
+    "667.jpg": {
+        "class": "glioma"
+    },
+    "668.jpg": {
+        "class": "glioma"
+    },
+    "669.jpg": {
+        "class": "glioma"
+    },
+    "670.jpg": {
+        "class": "glioma"
+    },
+    "671.jpg": {
+        "class": "glioma"
+    },
+    "672.jpg": {
+        "class": "glioma"
+    },
+    "673.jpg": {
+        "class": "glioma"
+    },
+    "674.jpg": {
+        "class": "glioma"
+    },
+    "675.jpg": {
+        "class": "glioma"
+    },
+    "676.jpg": {
+        "class": "glioma"
+    },
+    "677.jpg": {
+        "class": "glioma"
+    },
+    "678.jpg": {
+        "class": "glioma"
+    },
+    "679.jpg": {
+        "class": "glioma"
+    },
+    "680.jpg": {
+        "class": "glioma"
+    },
+    "681.jpg": {
+        "class": "glioma"
+    },
+    "682.jpg": {
+        "class": "glioma"
+    },
+    "683.jpg": {
+        "class": "glioma"
+    },
+    "684.jpg": {
+        "class": "glioma"
+    },
+    "685.jpg": {
+        "class": "glioma"
+    },
+    "686.jpg": {
+        "class": "glioma"
+    },
+    "687.jpg": {
+        "class": "glioma"
+    },
+    "688.jpg": {
+        "class": "glioma"
+    },
+    "689.jpg": {
+        "class": "glioma"
+    },
+    "690.jpg": {
+        "class": "glioma"
+    },
+    "691.jpg": {
+        "class": "glioma"
+    },
+    "692.jpg": {
+        "class": "glioma"
+    },
+    "693.jpg": {
+        "class": "glioma"
+    },
+    "694.jpg": {
+        "class": "glioma"
+    },
+    "695.jpg": {
+        "class": "glioma"
+    },
+    "696.jpg": {
+        "class": "glioma"
+    },
+    "697.jpg": {
+        "class": "glioma"
+    },
+    "698.jpg": {
+        "class": "glioma"
+    },
+    "699.jpg": {
+        "class": "glioma"
+    },
+    "700.jpg": {
+        "class": "glioma"
+    },
+    "701.jpg": {
+        "class": "glioma"
+    },
+    "702.jpg": {
+        "class": "glioma"
+    },
+    "703.jpg": {
+        "class": "glioma"
+    },
+    "704.jpg": {
+        "class": "glioma"
+    },
+    "705.jpg": {
+        "class": "glioma"
+    },
+    "706.jpg": {
+        "class": "glioma"
+    },
+    "707.jpg": {
+        "class": "glioma"
+    },
+    "708.jpg": {
+        "class": "glioma"
+    },
+    "709.jpg": {
+        "class": "glioma"
+    },
+    "710.jpg": {
+        "class": "glioma"
+    },
+    "711.jpg": {
+        "class": "glioma"
+    },
+    "712.jpg": {
+        "class": "glioma"
+    },
+    "713.jpg": {
+        "class": "glioma"
+    },
+    "714.jpg": {
+        "class": "glioma"
+    },
+    "715.jpg": {
+        "class": "glioma"
+    },
+    "716.jpg": {
+        "class": "glioma"
+    },
+    "717.jpg": {
+        "class": "glioma"
+    },
+    "718.jpg": {
+        "class": "glioma"
+    },
+    "719.jpg": {
+        "class": "glioma"
+    },
+    "720.jpg": {
+        "class": "glioma"
+    },
+    "721.jpg": {
+        "class": "glioma"
+    },
+    "722.jpg": {
+        "class": "glioma"
+    },
+    "723.jpg": {
+        "class": "glioma"
+    },
+    "724.jpg": {
+        "class": "glioma"
+    },
+    "725.jpg": {
+        "class": "glioma"
+    },
+    "726.jpg": {
+        "class": "glioma"
+    },
+    "727.jpg": {
+        "class": "glioma"
+    },
+    "728.jpg": {
+        "class": "glioma"
+    },
+    "729.jpg": {
+        "class": "glioma"
+    },
+    "730.jpg": {
+        "class": "glioma"
+    },
+    "731.jpg": {
+        "class": "glioma"
+    },
+    "732.jpg": {
+        "class": "glioma"
+    },
+    "733.jpg": {
+        "class": "glioma"
+    },
+    "734.jpg": {
+        "class": "glioma"
+    },
+    "735.jpg": {
+        "class": "glioma"
+    },
+    "736.jpg": {
+        "class": "glioma"
+    },
+    "737.jpg": {
+        "class": "glioma"
+    },
+    "738.jpg": {
+        "class": "glioma"
+    },
+    "739.jpg": {
+        "class": "glioma"
+    },
+    "740.jpg": {
+        "class": "glioma"
+    },
+    "741.jpg": {
+        "class": "glioma"
+    },
+    "742.jpg": {
+        "class": "glioma"
+    },
+    "743.jpg": {
+        "class": "glioma"
+    },
+    "744.jpg": {
+        "class": "glioma"
+    },
+    "745.jpg": {
+        "class": "glioma"
+    },
+    "746.jpg": {
+        "class": "glioma"
+    },
+    "747.jpg": {
+        "class": "glioma"
+    },
+    "748.jpg": {
+        "class": "glioma"
+    },
+    "749.jpg": {
+        "class": "glioma"
+    },
+    "750.jpg": {
+        "class": "glioma"
+    },
+    "751.jpg": {
+        "class": "glioma"
+    },
+    "752.jpg": {
+        "class": "glioma"
+    },
+    "753.jpg": {
+        "class": "glioma"
+    },
+    "754.jpg": {
+        "class": "glioma"
+    },
+    "755.jpg": {
+        "class": "glioma"
+    },
+    "756.jpg": {
+        "class": "glioma"
+    },
+    "757.jpg": {
+        "class": "glioma"
+    },
+    "758.jpg": {
+        "class": "glioma"
+    },
+    "759.jpg": {
+        "class": "glioma"
+    },
+    "760.jpg": {
+        "class": "glioma"
+    },
+    "761.jpg": {
+        "class": "glioma"
+    },
+    "762.jpg": {
+        "class": "glioma"
+    },
+    "763.jpg": {
+        "class": "glioma"
+    },
+    "764.jpg": {
+        "class": "glioma"
+    },
+    "765.jpg": {
+        "class": "glioma"
+    },
+    "766.jpg": {
+        "class": "glioma"
+    },
+    "767.jpg": {
+        "class": "glioma"
+    },
+    "768.jpg": {
+        "class": "glioma"
+    },
+    "769.jpg": {
+        "class": "glioma"
+    },
+    "770.jpg": {
+        "class": "glioma"
+    },
+    "771.jpg": {
+        "class": "glioma"
+    },
+    "772.jpg": {
+        "class": "glioma"
+    },
+    "773.jpg": {
+        "class": "glioma"
+    },
+    "774.jpg": {
+        "class": "glioma"
+    },
+    "775.jpg": {
+        "class": "glioma"
+    },
+    "776.jpg": {
+        "class": "glioma"
+    },
+    "777.jpg": {
+        "class": "glioma"
+    },
+    "778.jpg": {
+        "class": "glioma"
+    },
+    "779.jpg": {
+        "class": "glioma"
+    },
+    "780.jpg": {
+        "class": "glioma"
+    },
+    "781.jpg": {
+        "class": "glioma"
+    },
+    "782.jpg": {
+        "class": "glioma"
+    },
+    "783.jpg": {
+        "class": "glioma"
+    },
+    "784.jpg": {
+        "class": "glioma"
+    },
+    "785.jpg": {
+        "class": "glioma"
+    },
+    "786.jpg": {
+        "class": "glioma"
+    },
+    "787.jpg": {
+        "class": "glioma"
+    },
+    "788.jpg": {
+        "class": "glioma"
+    },
+    "789.jpg": {
+        "class": "glioma"
+    },
+    "790.jpg": {
+        "class": "glioma"
+    },
+    "791.jpg": {
+        "class": "glioma"
+    },
+    "792.jpg": {
+        "class": "glioma"
+    },
+    "793.jpg": {
+        "class": "glioma"
+    },
+    "794.jpg": {
+        "class": "glioma"
+    },
+    "795.jpg": {
+        "class": "glioma"
+    },
+    "796.jpg": {
+        "class": "glioma"
+    },
+    "797.jpg": {
+        "class": "glioma"
+    },
+    "798.jpg": {
+        "class": "glioma"
+    },
+    "799.jpg": {
+        "class": "glioma"
+    },
+    "800.jpg": {
+        "class": "glioma"
+    },
+    "801.jpg": {
+        "class": "glioma"
+    },
+    "802.jpg": {
+        "class": "glioma"
+    },
+    "803.jpg": {
+        "class": "glioma"
+    },
+    "804.jpg": {
+        "class": "glioma"
+    },
+    "805.jpg": {
+        "class": "glioma"
+    },
+    "806.jpg": {
+        "class": "glioma"
+    },
+    "807.jpg": {
+        "class": "glioma"
+    },
+    "808.jpg": {
+        "class": "glioma"
+    },
+    "809.jpg": {
+        "class": "glioma"
+    },
+    "810.jpg": {
+        "class": "glioma"
+    },
+    "811.jpg": {
+        "class": "glioma"
+    },
+    "812.jpg": {
+        "class": "glioma"
+    },
+    "813.jpg": {
+        "class": "glioma"
+    },
+    "814.jpg": {
+        "class": "glioma"
+    },
+    "815.jpg": {
+        "class": "glioma"
+    },
+    "816.jpg": {
+        "class": "glioma"
+    },
+    "817.jpg": {
+        "class": "glioma"
+    },
+    "818.jpg": {
+        "class": "glioma"
+    },
+    "819.jpg": {
+        "class": "glioma"
+    },
+    "820.jpg": {
+        "class": "glioma"
+    },
+    "821.jpg": {
+        "class": "glioma"
+    },
+    "822.jpg": {
+        "class": "glioma"
+    },
+    "823.jpg": {
+        "class": "glioma"
+    },
+    "824.jpg": {
+        "class": "glioma"
+    },
+    "825.jpg": {
+        "class": "glioma"
+    },
+    "826.jpg": {
+        "class": "meningioma"
+    },
+    "827.jpg": {
+        "class": "meningioma"
+    },
+    "828.jpg": {
+        "class": "meningioma"
+    },
+    "829.jpg": {
+        "class": "meningioma"
+    },
+    "830.jpg": {
+        "class": "meningioma"
+    },
+    "831.jpg": {
+        "class": "meningioma"
+    },
+    "832.jpg": {
+        "class": "meningioma"
+    },
+    "833.jpg": {
+        "class": "meningioma"
+    },
+    "834.jpg": {
+        "class": "meningioma"
+    },
+    "835.jpg": {
+        "class": "meningioma"
+    },
+    "836.jpg": {
+        "class": "meningioma"
+    },
+    "837.jpg": {
+        "class": "meningioma"
+    },
+    "838.jpg": {
+        "class": "meningioma"
+    },
+    "839.jpg": {
+        "class": "meningioma"
+    },
+    "840.jpg": {
+        "class": "meningioma"
+    },
+    "841.jpg": {
+        "class": "meningioma"
+    },
+    "842.jpg": {
+        "class": "meningioma"
+    },
+    "843.jpg": {
+        "class": "meningioma"
+    },
+    "844.jpg": {
+        "class": "meningioma"
+    },
+    "845.jpg": {
+        "class": "meningioma"
+    },
+    "846.jpg": {
+        "class": "meningioma"
+    },
+    "847.jpg": {
+        "class": "meningioma"
+    },
+    "848.jpg": {
+        "class": "meningioma"
+    },
+    "849.jpg": {
+        "class": "meningioma"
+    },
+    "850.jpg": {
+        "class": "meningioma"
+    },
+    "851.jpg": {
+        "class": "meningioma"
+    },
+    "852.jpg": {
+        "class": "meningioma"
+    },
+    "853.jpg": {
+        "class": "meningioma"
+    },
+    "854.jpg": {
+        "class": "meningioma"
+    },
+    "855.jpg": {
+        "class": "meningioma"
+    },
+    "856.jpg": {
+        "class": "meningioma"
+    },
+    "857.jpg": {
+        "class": "meningioma"
+    },
+    "858.jpg": {
+        "class": "meningioma"
+    },
+    "859.jpg": {
+        "class": "meningioma"
+    },
+    "860.jpg": {
+        "class": "meningioma"
+    },
+    "861.jpg": {
+        "class": "meningioma"
+    },
+    "862.jpg": {
+        "class": "meningioma"
+    },
+    "863.jpg": {
+        "class": "meningioma"
+    },
+    "864.jpg": {
+        "class": "meningioma"
+    },
+    "865.jpg": {
+        "class": "meningioma"
+    },
+    "866.jpg": {
+        "class": "meningioma"
+    },
+    "867.jpg": {
+        "class": "meningioma"
+    },
+    "868.jpg": {
+        "class": "meningioma"
+    },
+    "869.jpg": {
+        "class": "meningioma"
+    },
+    "870.jpg": {
+        "class": "meningioma"
+    },
+    "871.jpg": {
+        "class": "meningioma"
+    },
+    "872.jpg": {
+        "class": "meningioma"
+    },
+    "873.jpg": {
+        "class": "meningioma"
+    },
+    "874.jpg": {
+        "class": "meningioma"
+    },
+    "875.jpg": {
+        "class": "meningioma"
+    },
+    "876.jpg": {
+        "class": "meningioma"
+    },
+    "877.jpg": {
+        "class": "meningioma"
+    },
+    "878.jpg": {
+        "class": "meningioma"
+    },
+    "879.jpg": {
+        "class": "meningioma"
+    },
+    "880.jpg": {
+        "class": "meningioma"
+    },
+    "881.jpg": {
+        "class": "meningioma"
+    },
+    "882.jpg": {
+        "class": "meningioma"
+    },
+    "883.jpg": {
+        "class": "meningioma"
+    },
+    "884.jpg": {
+        "class": "meningioma"
+    },
+    "885.jpg": {
+        "class": "meningioma"
+    },
+    "886.jpg": {
+        "class": "meningioma"
+    },
+    "887.jpg": {
+        "class": "meningioma"
+    },
+    "888.jpg": {
+        "class": "meningioma"
+    },
+    "889.jpg": {
+        "class": "meningioma"
+    },
+    "890.jpg": {
+        "class": "meningioma"
+    },
+    "891.jpg": {
+        "class": "meningioma"
+    },
+    "892.jpg": {
+        "class": "meningioma"
+    },
+    "893.jpg": {
+        "class": "meningioma"
+    },
+    "894.jpg": {
+        "class": "meningioma"
+    },
+    "895.jpg": {
+        "class": "meningioma"
+    },
+    "896.jpg": {
+        "class": "meningioma"
+    },
+    "897.jpg": {
+        "class": "meningioma"
+    },
+    "898.jpg": {
+        "class": "meningioma"
+    },
+    "899.jpg": {
+        "class": "meningioma"
+    },
+    "900.jpg": {
+        "class": "meningioma"
+    },
+    "901.jpg": {
+        "class": "meningioma"
+    },
+    "902.jpg": {
+        "class": "meningioma"
+    },
+    "903.jpg": {
+        "class": "meningioma"
+    },
+    "904.jpg": {
+        "class": "meningioma"
+    },
+    "905.jpg": {
+        "class": "meningioma"
+    },
+    "906.jpg": {
+        "class": "meningioma"
+    },
+    "907.jpg": {
+        "class": "meningioma"
+    },
+    "908.jpg": {
+        "class": "meningioma"
+    },
+    "909.jpg": {
+        "class": "meningioma"
+    },
+    "910.jpg": {
+        "class": "meningioma"
+    },
+    "911.jpg": {
+        "class": "meningioma"
+    },
+    "912.jpg": {
+        "class": "meningioma"
+    },
+    "913.jpg": {
+        "class": "meningioma"
+    },
+    "914.jpg": {
+        "class": "meningioma"
+    },
+    "915.jpg": {
+        "class": "meningioma"
+    },
+    "916.jpg": {
+        "class": "meningioma"
+    },
+    "917.jpg": {
+        "class": "meningioma"
+    },
+    "918.jpg": {
+        "class": "meningioma"
+    },
+    "919.jpg": {
+        "class": "meningioma"
+    },
+    "920.jpg": {
+        "class": "meningioma"
+    },
+    "921.jpg": {
+        "class": "meningioma"
+    },
+    "922.jpg": {
+        "class": "meningioma"
+    },
+    "923.jpg": {
+        "class": "meningioma"
+    },
+    "924.jpg": {
+        "class": "meningioma"
+    },
+    "925.jpg": {
+        "class": "meningioma"
+    },
+    "926.jpg": {
+        "class": "meningioma"
+    },
+    "927.jpg": {
+        "class": "meningioma"
+    },
+    "928.jpg": {
+        "class": "meningioma"
+    },
+    "929.jpg": {
+        "class": "meningioma"
+    },
+    "930.jpg": {
+        "class": "meningioma"
+    },
+    "931.jpg": {
+        "class": "meningioma"
+    },
+    "932.jpg": {
+        "class": "meningioma"
+    },
+    "933.jpg": {
+        "class": "meningioma"
+    },
+    "934.jpg": {
+        "class": "meningioma"
+    },
+    "935.jpg": {
+        "class": "meningioma"
+    },
+    "936.jpg": {
+        "class": "meningioma"
+    },
+    "937.jpg": {
+        "class": "meningioma"
+    },
+    "938.jpg": {
+        "class": "meningioma"
+    },
+    "939.jpg": {
+        "class": "meningioma"
+    },
+    "940.jpg": {
+        "class": "meningioma"
+    },
+    "941.jpg": {
+        "class": "meningioma"
+    },
+    "942.jpg": {
+        "class": "meningioma"
+    },
+    "943.jpg": {
+        "class": "meningioma"
+    },
+    "944.jpg": {
+        "class": "meningioma"
+    },
+    "945.jpg": {
+        "class": "meningioma"
+    },
+    "946.jpg": {
+        "class": "meningioma"
+    },
+    "947.jpg": {
+        "class": "meningioma"
+    },
+    "948.jpg": {
+        "class": "meningioma"
+    },
+    "949.jpg": {
+        "class": "meningioma"
+    },
+    "950.jpg": {
+        "class": "meningioma"
+    },
+    "951.jpg": {
+        "class": "meningioma"
+    },
+    "952.jpg": {
+        "class": "meningioma"
+    },
+    "953.jpg": {
+        "class": "meningioma"
+    },
+    "954.jpg": {
+        "class": "meningioma"
+    },
+    "955.jpg": {
+        "class": "meningioma"
+    },
+    "956.jpg": {
+        "class": "meningioma"
+    },
+    "957.jpg": {
+        "class": "meningioma"
+    },
+    "958.jpg": {
+        "class": "meningioma"
+    },
+    "959.jpg": {
+        "class": "meningioma"
+    },
+    "960.jpg": {
+        "class": "meningioma"
+    },
+    "961.jpg": {
+        "class": "meningioma"
+    },
+    "962.jpg": {
+        "class": "meningioma"
+    },
+    "963.jpg": {
+        "class": "meningioma"
+    },
+    "964.jpg": {
+        "class": "meningioma"
+    },
+    "965.jpg": {
+        "class": "meningioma"
+    },
+    "966.jpg": {
+        "class": "meningioma"
+    },
+    "967.jpg": {
+        "class": "meningioma"
+    },
+    "968.jpg": {
+        "class": "meningioma"
+    },
+    "969.jpg": {
+        "class": "meningioma"
+    },
+    "970.jpg": {
+        "class": "meningioma"
+    },
+    "971.jpg": {
+        "class": "meningioma"
+    },
+    "972.jpg": {
+        "class": "meningioma"
+    },
+    "973.jpg": {
+        "class": "meningioma"
+    },
+    "974.jpg": {
+        "class": "meningioma"
+    },
+    "975.jpg": {
+        "class": "meningioma"
+    },
+    "976.jpg": {
+        "class": "meningioma"
+    },
+    "977.jpg": {
+        "class": "meningioma"
+    },
+    "978.jpg": {
+        "class": "meningioma"
+    },
+    "979.jpg": {
+        "class": "meningioma"
+    },
+    "980.jpg": {
+        "class": "meningioma"
+    },
+    "981.jpg": {
+        "class": "meningioma"
+    },
+    "982.jpg": {
+        "class": "meningioma"
+    },
+    "983.jpg": {
+        "class": "meningioma"
+    },
+    "984.jpg": {
+        "class": "meningioma"
+    },
+    "985.jpg": {
+        "class": "meningioma"
+    },
+    "986.jpg": {
+        "class": "meningioma"
+    },
+    "987.jpg": {
+        "class": "meningioma"
+    },
+    "988.jpg": {
+        "class": "meningioma"
+    },
+    "989.jpg": {
+        "class": "meningioma"
+    },
+    "990.jpg": {
+        "class": "meningioma"
+    },
+    "991.jpg": {
+        "class": "meningioma"
+    },
+    "992.jpg": {
+        "class": "meningioma"
+    },
+    "993.jpg": {
+        "class": "meningioma"
+    },
+    "994.jpg": {
+        "class": "meningioma"
+    },
+    "995.jpg": {
+        "class": "meningioma"
+    },
+    "996.jpg": {
+        "class": "meningioma"
+    },
+    "997.jpg": {
+        "class": "meningioma"
+    },
+    "998.jpg": {
+        "class": "meningioma"
+    },
+    "999.jpg": {
+        "class": "meningioma"
+    },
+    "1000.jpg": {
+        "class": "meningioma"
+    },
+    "1001.jpg": {
+        "class": "meningioma"
+    },
+    "1002.jpg": {
+        "class": "meningioma"
+    },
+    "1003.jpg": {
+        "class": "meningioma"
+    },
+    "1004.jpg": {
+        "class": "meningioma"
+    },
+    "1005.jpg": {
+        "class": "meningioma"
+    },
+    "1006.jpg": {
+        "class": "meningioma"
+    },
+    "1007.jpg": {
+        "class": "meningioma"
+    },
+    "1008.jpg": {
+        "class": "meningioma"
+    },
+    "1009.jpg": {
+        "class": "meningioma"
+    },
+    "1010.jpg": {
+        "class": "meningioma"
+    },
+    "1011.jpg": {
+        "class": "meningioma"
+    },
+    "1012.jpg": {
+        "class": "meningioma"
+    },
+    "1013.jpg": {
+        "class": "meningioma"
+    },
+    "1014.jpg": {
+        "class": "meningioma"
+    },
+    "1015.jpg": {
+        "class": "meningioma"
+    },
+    "1016.jpg": {
+        "class": "meningioma"
+    },
+    "1017.jpg": {
+        "class": "meningioma"
+    },
+    "1018.jpg": {
+        "class": "meningioma"
+    },
+    "1019.jpg": {
+        "class": "meningioma"
+    },
+    "1020.jpg": {
+        "class": "meningioma"
+    },
+    "1021.jpg": {
+        "class": "meningioma"
+    },
+    "1022.jpg": {
+        "class": "meningioma"
+    },
+    "1023.jpg": {
+        "class": "meningioma"
+    },
+    "1024.jpg": {
+        "class": "meningioma"
+    },
+    "1025.jpg": {
+        "class": "meningioma"
+    },
+    "1026.jpg": {
+        "class": "meningioma"
+    },
+    "1027.jpg": {
+        "class": "meningioma"
+    },
+    "1028.jpg": {
+        "class": "meningioma"
+    },
+    "1029.jpg": {
+        "class": "meningioma"
+    },
+    "1030.jpg": {
+        "class": "meningioma"
+    },
+    "1031.jpg": {
+        "class": "meningioma"
+    },
+    "1032.jpg": {
+        "class": "meningioma"
+    },
+    "1033.jpg": {
+        "class": "meningioma"
+    },
+    "1034.jpg": {
+        "class": "meningioma"
+    },
+    "1035.jpg": {
+        "class": "meningioma"
+    },
+    "1036.jpg": {
+        "class": "meningioma"
+    },
+    "1037.jpg": {
+        "class": "meningioma"
+    },
+    "1038.jpg": {
+        "class": "meningioma"
+    },
+    "1039.jpg": {
+        "class": "meningioma"
+    },
+    "1040.jpg": {
+        "class": "meningioma"
+    },
+    "1041.jpg": {
+        "class": "meningioma"
+    },
+    "1042.jpg": {
+        "class": "meningioma"
+    },
+    "1043.jpg": {
+        "class": "meningioma"
+    },
+    "1044.jpg": {
+        "class": "meningioma"
+    },
+    "1045.jpg": {
+        "class": "meningioma"
+    },
+    "1046.jpg": {
+        "class": "meningioma"
+    },
+    "1047.jpg": {
+        "class": "meningioma"
+    },
+    "1048.jpg": {
+        "class": "meningioma"
+    },
+    "1049.jpg": {
+        "class": "meningioma"
+    },
+    "1050.jpg": {
+        "class": "meningioma"
+    },
+    "1051.jpg": {
+        "class": "meningioma"
+    },
+    "1052.jpg": {
+        "class": "meningioma"
+    },
+    "1053.jpg": {
+        "class": "meningioma"
+    },
+    "1054.jpg": {
+        "class": "meningioma"
+    },
+    "1055.jpg": {
+        "class": "meningioma"
+    },
+    "1056.jpg": {
+        "class": "meningioma"
+    },
+    "1057.jpg": {
+        "class": "meningioma"
+    },
+    "1058.jpg": {
+        "class": "meningioma"
+    },
+    "1059.jpg": {
+        "class": "meningioma"
+    },
+    "1060.jpg": {
+        "class": "meningioma"
+    },
+    "1061.jpg": {
+        "class": "meningioma"
+    },
+    "1062.jpg": {
+        "class": "meningioma"
+    },
+    "1063.jpg": {
+        "class": "meningioma"
+    },
+    "1064.jpg": {
+        "class": "meningioma"
+    },
+    "1065.jpg": {
+        "class": "meningioma"
+    },
+    "1066.jpg": {
+        "class": "meningioma"
+    },
+    "1067.jpg": {
+        "class": "meningioma"
+    },
+    "1068.jpg": {
+        "class": "meningioma"
+    },
+    "1069.jpg": {
+        "class": "meningioma"
+    },
+    "1070.jpg": {
+        "class": "meningioma"
+    },
+    "1071.jpg": {
+        "class": "meningioma"
+    },
+    "1072.jpg": {
+        "class": "meningioma"
+    },
+    "1073.jpg": {
+        "class": "meningioma"
+    },
+    "1074.jpg": {
+        "class": "meningioma"
+    },
+    "1075.jpg": {
+        "class": "meningioma"
+    },
+    "1076.jpg": {
+        "class": "meningioma"
+    },
+    "1077.jpg": {
+        "class": "meningioma"
+    },
+    "1078.jpg": {
+        "class": "meningioma"
+    },
+    "1079.jpg": {
+        "class": "meningioma"
+    },
+    "1080.jpg": {
+        "class": "meningioma"
+    },
+    "1081.jpg": {
+        "class": "meningioma"
+    },
+    "1082.jpg": {
+        "class": "meningioma"
+    },
+    "1083.jpg": {
+        "class": "meningioma"
+    },
+    "1084.jpg": {
+        "class": "meningioma"
+    },
+    "1085.jpg": {
+        "class": "meningioma"
+    },
+    "1086.jpg": {
+        "class": "meningioma"
+    },
+    "1087.jpg": {
+        "class": "meningioma"
+    },
+    "1088.jpg": {
+        "class": "meningioma"
+    },
+    "1089.jpg": {
+        "class": "meningioma"
+    },
+    "1090.jpg": {
+        "class": "meningioma"
+    },
+    "1091.jpg": {
+        "class": "meningioma"
+    },
+    "1092.jpg": {
+        "class": "meningioma"
+    },
+    "1093.jpg": {
+        "class": "meningioma"
+    },
+    "1094.jpg": {
+        "class": "meningioma"
+    },
+    "1095.jpg": {
+        "class": "meningioma"
+    },
+    "1096.jpg": {
+        "class": "meningioma"
+    },
+    "1097.jpg": {
+        "class": "meningioma"
+    },
+    "1098.jpg": {
+        "class": "meningioma"
+    },
+    "1099.jpg": {
+        "class": "meningioma"
+    },
+    "1100.jpg": {
+        "class": "meningioma"
+    },
+    "1101.jpg": {
+        "class": "meningioma"
+    },
+    "1102.jpg": {
+        "class": "meningioma"
+    },
+    "1103.jpg": {
+        "class": "meningioma"
+    },
+    "1104.jpg": {
+        "class": "meningioma"
+    },
+    "1105.jpg": {
+        "class": "meningioma"
+    },
+    "1106.jpg": {
+        "class": "meningioma"
+    },
+    "1107.jpg": {
+        "class": "meningioma"
+    },
+    "1108.jpg": {
+        "class": "meningioma"
+    },
+    "1109.jpg": {
+        "class": "meningioma"
+    },
+    "1110.jpg": {
+        "class": "meningioma"
+    },
+    "1111.jpg": {
+        "class": "meningioma"
+    },
+    "1112.jpg": {
+        "class": "meningioma"
+    },
+    "1113.jpg": {
+        "class": "meningioma"
+    },
+    "1114.jpg": {
+        "class": "meningioma"
+    },
+    "1115.jpg": {
+        "class": "meningioma"
+    },
+    "1116.jpg": {
+        "class": "meningioma"
+    },
+    "1117.jpg": {
+        "class": "meningioma"
+    },
+    "1118.jpg": {
+        "class": "meningioma"
+    },
+    "1119.jpg": {
+        "class": "meningioma"
+    },
+    "1120.jpg": {
+        "class": "meningioma"
+    },
+    "1121.jpg": {
+        "class": "meningioma"
+    },
+    "1122.jpg": {
+        "class": "meningioma"
+    },
+    "1123.jpg": {
+        "class": "meningioma"
+    },
+    "1124.jpg": {
+        "class": "meningioma"
+    },
+    "1125.jpg": {
+        "class": "meningioma"
+    },
+    "1126.jpg": {
+        "class": "meningioma"
+    },
+    "1127.jpg": {
+        "class": "meningioma"
+    },
+    "1128.jpg": {
+        "class": "meningioma"
+    },
+    "1129.jpg": {
+        "class": "meningioma"
+    },
+    "1130.jpg": {
+        "class": "meningioma"
+    },
+    "1131.jpg": {
+        "class": "meningioma"
+    },
+    "1132.jpg": {
+        "class": "meningioma"
+    },
+    "1133.jpg": {
+        "class": "meningioma"
+    },
+    "1134.jpg": {
+        "class": "meningioma"
+    },
+    "1135.jpg": {
+        "class": "meningioma"
+    },
+    "1136.jpg": {
+        "class": "meningioma"
+    },
+    "1137.jpg": {
+        "class": "meningioma"
+    },
+    "1138.jpg": {
+        "class": "meningioma"
+    },
+    "1139.jpg": {
+        "class": "meningioma"
+    },
+    "1140.jpg": {
+        "class": "meningioma"
+    },
+    "1141.jpg": {
+        "class": "meningioma"
+    },
+    "1142.jpg": {
+        "class": "meningioma"
+    },
+    "1143.jpg": {
+        "class": "meningioma"
+    },
+    "1144.jpg": {
+        "class": "meningioma"
+    },
+    "1145.jpg": {
+        "class": "meningioma"
+    },
+    "1146.jpg": {
+        "class": "meningioma"
+    },
+    "1147.jpg": {
+        "class": "meningioma"
+    },
+    "1148.jpg": {
+        "class": "meningioma"
+    },
+    "1149.jpg": {
+        "class": "meningioma"
+    },
+    "1150.jpg": {
+        "class": "meningioma"
+    },
+    "1151.jpg": {
+        "class": "meningioma"
+    },
+    "1152.jpg": {
+        "class": "meningioma"
+    },
+    "1153.jpg": {
+        "class": "meningioma"
+    },
+    "1154.jpg": {
+        "class": "meningioma"
+    },
+    "1155.jpg": {
+        "class": "meningioma"
+    },
+    "1156.jpg": {
+        "class": "meningioma"
+    },
+    "1157.jpg": {
+        "class": "meningioma"
+    },
+    "1158.jpg": {
+        "class": "meningioma"
+    },
+    "1159.jpg": {
+        "class": "meningioma"
+    },
+    "1160.jpg": {
+        "class": "meningioma"
+    },
+    "1161.jpg": {
+        "class": "meningioma"
+    },
+    "1162.jpg": {
+        "class": "meningioma"
+    },
+    "1163.jpg": {
+        "class": "meningioma"
+    },
+    "1164.jpg": {
+        "class": "meningioma"
+    },
+    "1165.jpg": {
+        "class": "meningioma"
+    },
+    "1166.jpg": {
+        "class": "meningioma"
+    },
+    "1167.jpg": {
+        "class": "meningioma"
+    },
+    "1168.jpg": {
+        "class": "meningioma"
+    },
+    "1169.jpg": {
+        "class": "meningioma"
+    },
+    "1170.jpg": {
+        "class": "meningioma"
+    },
+    "1171.jpg": {
+        "class": "meningioma"
+    },
+    "1172.jpg": {
+        "class": "meningioma"
+    },
+    "1173.jpg": {
+        "class": "meningioma"
+    },
+    "1174.jpg": {
+        "class": "meningioma"
+    },
+    "1175.jpg": {
+        "class": "meningioma"
+    },
+    "1176.jpg": {
+        "class": "meningioma"
+    },
+    "1177.jpg": {
+        "class": "meningioma"
+    },
+    "1178.jpg": {
+        "class": "meningioma"
+    },
+    "1179.jpg": {
+        "class": "meningioma"
+    },
+    "1180.jpg": {
+        "class": "meningioma"
+    },
+    "1181.jpg": {
+        "class": "meningioma"
+    },
+    "1182.jpg": {
+        "class": "meningioma"
+    },
+    "1183.jpg": {
+        "class": "meningioma"
+    },
+    "1184.jpg": {
+        "class": "meningioma"
+    },
+    "1185.jpg": {
+        "class": "meningioma"
+    },
+    "1186.jpg": {
+        "class": "meningioma"
+    },
+    "1187.jpg": {
+        "class": "meningioma"
+    },
+    "1188.jpg": {
+        "class": "meningioma"
+    },
+    "1189.jpg": {
+        "class": "meningioma"
+    },
+    "1190.jpg": {
+        "class": "meningioma"
+    },
+    "1191.jpg": {
+        "class": "meningioma"
+    },
+    "1192.jpg": {
+        "class": "meningioma"
+    },
+    "1193.jpg": {
+        "class": "meningioma"
+    },
+    "1194.jpg": {
+        "class": "meningioma"
+    },
+    "1195.jpg": {
+        "class": "meningioma"
+    },
+    "1196.jpg": {
+        "class": "meningioma"
+    },
+    "1197.jpg": {
+        "class": "meningioma"
+    },
+    "1198.jpg": {
+        "class": "meningioma"
+    },
+    "1199.jpg": {
+        "class": "meningioma"
+    },
+    "1200.jpg": {
+        "class": "meningioma"
+    },
+    "1201.jpg": {
+        "class": "meningioma"
+    },
+    "1202.jpg": {
+        "class": "meningioma"
+    },
+    "1203.jpg": {
+        "class": "meningioma"
+    },
+    "1204.jpg": {
+        "class": "meningioma"
+    },
+    "1205.jpg": {
+        "class": "meningioma"
+    },
+    "1206.jpg": {
+        "class": "meningioma"
+    },
+    "1207.jpg": {
+        "class": "meningioma"
+    },
+    "1208.jpg": {
+        "class": "meningioma"
+    },
+    "1209.jpg": {
+        "class": "meningioma"
+    },
+    "1210.jpg": {
+        "class": "meningioma"
+    },
+    "1211.jpg": {
+        "class": "meningioma"
+    },
+    "1212.jpg": {
+        "class": "meningioma"
+    },
+    "1213.jpg": {
+        "class": "meningioma"
+    },
+    "1214.jpg": {
+        "class": "meningioma"
+    },
+    "1215.jpg": {
+        "class": "meningioma"
+    },
+    "1216.jpg": {
+        "class": "meningioma"
+    },
+    "1217.jpg": {
+        "class": "meningioma"
+    },
+    "1218.jpg": {
+        "class": "meningioma"
+    },
+    "1219.jpg": {
+        "class": "meningioma"
+    },
+    "1220.jpg": {
+        "class": "meningioma"
+    },
+    "1221.jpg": {
+        "class": "meningioma"
+    },
+    "1222.jpg": {
+        "class": "meningioma"
+    },
+    "1223.jpg": {
+        "class": "meningioma"
+    },
+    "1224.jpg": {
+        "class": "meningioma"
+    },
+    "1225.jpg": {
+        "class": "meningioma"
+    },
+    "1226.jpg": {
+        "class": "meningioma"
+    },
+    "1227.jpg": {
+        "class": "meningioma"
+    },
+    "1228.jpg": {
+        "class": "meningioma"
+    },
+    "1229.jpg": {
+        "class": "meningioma"
+    },
+    "1230.jpg": {
+        "class": "meningioma"
+    },
+    "1231.jpg": {
+        "class": "meningioma"
+    },
+    "1232.jpg": {
+        "class": "meningioma"
+    },
+    "1233.jpg": {
+        "class": "meningioma"
+    },
+    "1234.jpg": {
+        "class": "meningioma"
+    },
+    "1235.jpg": {
+        "class": "meningioma"
+    },
+    "1236.jpg": {
+        "class": "meningioma"
+    },
+    "1237.jpg": {
+        "class": "meningioma"
+    },
+    "1238.jpg": {
+        "class": "meningioma"
+    },
+    "1239.jpg": {
+        "class": "meningioma"
+    },
+    "1240.jpg": {
+        "class": "meningioma"
+    },
+    "1241.jpg": {
+        "class": "meningioma"
+    },
+    "1242.jpg": {
+        "class": "meningioma"
+    },
+    "1243.jpg": {
+        "class": "meningioma"
+    },
+    "1244.jpg": {
+        "class": "meningioma"
+    },
+    "1245.jpg": {
+        "class": "meningioma"
+    },
+    "1246.jpg": {
+        "class": "meningioma"
+    },
+    "1247.jpg": {
+        "class": "meningioma"
+    },
+    "1248.jpg": {
+        "class": "meningioma"
+    },
+    "1249.jpg": {
+        "class": "meningioma"
+    },
+    "1250.jpg": {
+        "class": "meningioma"
+    },
+    "1251.jpg": {
+        "class": "meningioma"
+    },
+    "1252.jpg": {
+        "class": "meningioma"
+    },
+    "1253.jpg": {
+        "class": "meningioma"
+    },
+    "1254.jpg": {
+        "class": "meningioma"
+    },
+    "1255.jpg": {
+        "class": "meningioma"
+    },
+    "1256.jpg": {
+        "class": "meningioma"
+    },
+    "1257.jpg": {
+        "class": "meningioma"
+    },
+    "1258.jpg": {
+        "class": "meningioma"
+    },
+    "1259.jpg": {
+        "class": "meningioma"
+    },
+    "1260.jpg": {
+        "class": "meningioma"
+    },
+    "1261.jpg": {
+        "class": "meningioma"
+    },
+    "1262.jpg": {
+        "class": "meningioma"
+    },
+    "1263.jpg": {
+        "class": "meningioma"
+    },
+    "1264.jpg": {
+        "class": "meningioma"
+    },
+    "1265.jpg": {
+        "class": "meningioma"
+    },
+    "1266.jpg": {
+        "class": "meningioma"
+    },
+    "1267.jpg": {
+        "class": "meningioma"
+    },
+    "1268.jpg": {
+        "class": "meningioma"
+    },
+    "1269.jpg": {
+        "class": "meningioma"
+    },
+    "1270.jpg": {
+        "class": "meningioma"
+    },
+    "1271.jpg": {
+        "class": "meningioma"
+    },
+    "1272.jpg": {
+        "class": "meningioma"
+    },
+    "1273.jpg": {
+        "class": "meningioma"
+    },
+    "1274.jpg": {
+        "class": "meningioma"
+    },
+    "1275.jpg": {
+        "class": "meningioma"
+    },
+    "1276.jpg": {
+        "class": "meningioma"
+    },
+    "1277.jpg": {
+        "class": "meningioma"
+    },
+    "1278.jpg": {
+        "class": "meningioma"
+    },
+    "1279.jpg": {
+        "class": "meningioma"
+    },
+    "1280.jpg": {
+        "class": "meningioma"
+    },
+    "1281.jpg": {
+        "class": "meningioma"
+    },
+    "1282.jpg": {
+        "class": "meningioma"
+    },
+    "1283.jpg": {
+        "class": "meningioma"
+    },
+    "1284.jpg": {
+        "class": "meningioma"
+    },
+    "1285.jpg": {
+        "class": "meningioma"
+    },
+    "1286.jpg": {
+        "class": "meningioma"
+    },
+    "1287.jpg": {
+        "class": "meningioma"
+    },
+    "1288.jpg": {
+        "class": "meningioma"
+    },
+    "1289.jpg": {
+        "class": "meningioma"
+    },
+    "1290.jpg": {
+        "class": "meningioma"
+    },
+    "1291.jpg": {
+        "class": "meningioma"
+    },
+    "1292.jpg": {
+        "class": "meningioma"
+    },
+    "1293.jpg": {
+        "class": "meningioma"
+    },
+    "1294.jpg": {
+        "class": "meningioma"
+    },
+    "1295.jpg": {
+        "class": "meningioma"
+    },
+    "1296.jpg": {
+        "class": "meningioma"
+    },
+    "1297.jpg": {
+        "class": "meningioma"
+    },
+    "1298.jpg": {
+        "class": "meningioma"
+    },
+    "1299.jpg": {
+        "class": "meningioma"
+    },
+    "1300.jpg": {
+        "class": "meningioma"
+    },
+    "1301.jpg": {
+        "class": "meningioma"
+    },
+    "1302.jpg": {
+        "class": "meningioma"
+    },
+    "1303.jpg": {
+        "class": "meningioma"
+    },
+    "1304.jpg": {
+        "class": "meningioma"
+    },
+    "1305.jpg": {
+        "class": "meningioma"
+    },
+    "1306.jpg": {
+        "class": "meningioma"
+    },
+    "1307.jpg": {
+        "class": "meningioma"
+    },
+    "1308.jpg": {
+        "class": "meningioma"
+    },
+    "1309.jpg": {
+        "class": "meningioma"
+    },
+    "1310.jpg": {
+        "class": "meningioma"
+    },
+    "1311.jpg": {
+        "class": "meningioma"
+    },
+    "1312.jpg": {
+        "class": "meningioma"
+    },
+    "1313.jpg": {
+        "class": "meningioma"
+    },
+    "1314.jpg": {
+        "class": "meningioma"
+    },
+    "1315.jpg": {
+        "class": "meningioma"
+    },
+    "1316.jpg": {
+        "class": "meningioma"
+    },
+    "1317.jpg": {
+        "class": "meningioma"
+    },
+    "1318.jpg": {
+        "class": "meningioma"
+    },
+    "1319.jpg": {
+        "class": "meningioma"
+    },
+    "1320.jpg": {
+        "class": "meningioma"
+    },
+    "1321.jpg": {
+        "class": "meningioma"
+    },
+    "1322.jpg": {
+        "class": "meningioma"
+    },
+    "1323.jpg": {
+        "class": "meningioma"
+    },
+    "1324.jpg": {
+        "class": "meningioma"
+    },
+    "1325.jpg": {
+        "class": "meningioma"
+    },
+    "1326.jpg": {
+        "class": "meningioma"
+    },
+    "1327.jpg": {
+        "class": "meningioma"
+    },
+    "1328.jpg": {
+        "class": "meningioma"
+    },
+    "1329.jpg": {
+        "class": "meningioma"
+    },
+    "1330.jpg": {
+        "class": "meningioma"
+    },
+    "1331.jpg": {
+        "class": "meningioma"
+    },
+    "1332.jpg": {
+        "class": "meningioma"
+    },
+    "1333.jpg": {
+        "class": "meningioma"
+    },
+    "1334.jpg": {
+        "class": "meningioma"
+    },
+    "1335.jpg": {
+        "class": "meningioma"
+    },
+    "1336.jpg": {
+        "class": "meningioma"
+    },
+    "1337.jpg": {
+        "class": "meningioma"
+    },
+    "1338.jpg": {
+        "class": "meningioma"
+    },
+    "1339.jpg": {
+        "class": "meningioma"
+    },
+    "1340.jpg": {
+        "class": "meningioma"
+    },
+    "1341.jpg": {
+        "class": "meningioma"
+    },
+    "1342.jpg": {
+        "class": "meningioma"
+    },
+    "1343.jpg": {
+        "class": "meningioma"
+    },
+    "1344.jpg": {
+        "class": "meningioma"
+    },
+    "1345.jpg": {
+        "class": "meningioma"
+    },
+    "1346.jpg": {
+        "class": "meningioma"
+    },
+    "1347.jpg": {
+        "class": "meningioma"
+    },
+    "1348.jpg": {
+        "class": "meningioma"
+    },
+    "1349.jpg": {
+        "class": "meningioma"
+    },
+    "1350.jpg": {
+        "class": "meningioma"
+    },
+    "1351.jpg": {
+        "class": "meningioma"
+    },
+    "1352.jpg": {
+        "class": "meningioma"
+    },
+    "1353.jpg": {
+        "class": "meningioma"
+    },
+    "1354.jpg": {
+        "class": "meningioma"
+    },
+    "1355.jpg": {
+        "class": "meningioma"
+    },
+    "1356.jpg": {
+        "class": "meningioma"
+    },
+    "1357.jpg": {
+        "class": "meningioma"
+    },
+    "1358.jpg": {
+        "class": "meningioma"
+    },
+    "1359.jpg": {
+        "class": "meningioma"
+    },
+    "1360.jpg": {
+        "class": "meningioma"
+    },
+    "1361.jpg": {
+        "class": "meningioma"
+    },
+    "1362.jpg": {
+        "class": "meningioma"
+    },
+    "1363.jpg": {
+        "class": "meningioma"
+    },
+    "1364.jpg": {
+        "class": "meningioma"
+    },
+    "1365.jpg": {
+        "class": "meningioma"
+    },
+    "1366.jpg": {
+        "class": "meningioma"
+    },
+    "1367.jpg": {
+        "class": "meningioma"
+    },
+    "1368.jpg": {
+        "class": "meningioma"
+    },
+    "1369.jpg": {
+        "class": "meningioma"
+    },
+    "1370.jpg": {
+        "class": "meningioma"
+    },
+    "1371.jpg": {
+        "class": "meningioma"
+    },
+    "1372.jpg": {
+        "class": "meningioma"
+    },
+    "1373.jpg": {
+        "class": "meningioma"
+    },
+    "1374.jpg": {
+        "class": "meningioma"
+    },
+    "1375.jpg": {
+        "class": "meningioma"
+    },
+    "1376.jpg": {
+        "class": "meningioma"
+    },
+    "1377.jpg": {
+        "class": "meningioma"
+    },
+    "1378.jpg": {
+        "class": "meningioma"
+    },
+    "1379.jpg": {
+        "class": "meningioma"
+    },
+    "1380.jpg": {
+        "class": "meningioma"
+    },
+    "1381.jpg": {
+        "class": "meningioma"
+    },
+    "1382.jpg": {
+        "class": "meningioma"
+    },
+    "1383.jpg": {
+        "class": "meningioma"
+    },
+    "1384.jpg": {
+        "class": "meningioma"
+    },
+    "1385.jpg": {
+        "class": "meningioma"
+    },
+    "1386.jpg": {
+        "class": "meningioma"
+    },
+    "1387.jpg": {
+        "class": "meningioma"
+    },
+    "1388.jpg": {
+        "class": "meningioma"
+    },
+    "1389.jpg": {
+        "class": "meningioma"
+    },
+    "1390.jpg": {
+        "class": "meningioma"
+    },
+    "1391.jpg": {
+        "class": "meningioma"
+    },
+    "1392.jpg": {
+        "class": "meningioma"
+    },
+    "1393.jpg": {
+        "class": "meningioma"
+    },
+    "1394.jpg": {
+        "class": "meningioma"
+    },
+    "1395.jpg": {
+        "class": "meningioma"
+    },
+    "1396.jpg": {
+        "class": "meningioma"
+    },
+    "1397.jpg": {
+        "class": "meningioma"
+    },
+    "1398.jpg": {
+        "class": "meningioma"
+    },
+    "1399.jpg": {
+        "class": "meningioma"
+    },
+    "1400.jpg": {
+        "class": "meningioma"
+    },
+    "1401.jpg": {
+        "class": "meningioma"
+    },
+    "1402.jpg": {
+        "class": "meningioma"
+    },
+    "1403.jpg": {
+        "class": "meningioma"
+    },
+    "1404.jpg": {
+        "class": "meningioma"
+    },
+    "1405.jpg": {
+        "class": "meningioma"
+    },
+    "1406.jpg": {
+        "class": "meningioma"
+    },
+    "1407.jpg": {
+        "class": "meningioma"
+    },
+    "1408.jpg": {
+        "class": "meningioma"
+    },
+    "1409.jpg": {
+        "class": "meningioma"
+    },
+    "1410.jpg": {
+        "class": "meningioma"
+    },
+    "1411.jpg": {
+        "class": "meningioma"
+    },
+    "1412.jpg": {
+        "class": "meningioma"
+    },
+    "1413.jpg": {
+        "class": "meningioma"
+    },
+    "1414.jpg": {
+        "class": "meningioma"
+    },
+    "1415.jpg": {
+        "class": "meningioma"
+    },
+    "1416.jpg": {
+        "class": "meningioma"
+    },
+    "1417.jpg": {
+        "class": "meningioma"
+    },
+    "1418.jpg": {
+        "class": "meningioma"
+    },
+    "1419.jpg": {
+        "class": "meningioma"
+    },
+    "1420.jpg": {
+        "class": "meningioma"
+    },
+    "1421.jpg": {
+        "class": "meningioma"
+    },
+    "1422.jpg": {
+        "class": "meningioma"
+    },
+    "1423.jpg": {
+        "class": "meningioma"
+    },
+    "1424.jpg": {
+        "class": "meningioma"
+    },
+    "1425.jpg": {
+        "class": "meningioma"
+    },
+    "1426.jpg": {
+        "class": "meningioma"
+    },
+    "1427.jpg": {
+        "class": "meningioma"
+    },
+    "1428.jpg": {
+        "class": "meningioma"
+    },
+    "1429.jpg": {
+        "class": "meningioma"
+    },
+    "1430.jpg": {
+        "class": "meningioma"
+    },
+    "1431.jpg": {
+        "class": "meningioma"
+    },
+    "1432.jpg": {
+        "class": "meningioma"
+    },
+    "1433.jpg": {
+        "class": "meningioma"
+    },
+    "1434.jpg": {
+        "class": "meningioma"
+    },
+    "1435.jpg": {
+        "class": "meningioma"
+    },
+    "1436.jpg": {
+        "class": "meningioma"
+    },
+    "1437.jpg": {
+        "class": "meningioma"
+    },
+    "1438.jpg": {
+        "class": "meningioma"
+    },
+    "1439.jpg": {
+        "class": "meningioma"
+    },
+    "1440.jpg": {
+        "class": "meningioma"
+    },
+    "1441.jpg": {
+        "class": "meningioma"
+    },
+    "1442.jpg": {
+        "class": "meningioma"
+    },
+    "1443.jpg": {
+        "class": "meningioma"
+    },
+    "1444.jpg": {
+        "class": "meningioma"
+    },
+    "1445.jpg": {
+        "class": "meningioma"
+    },
+    "1446.jpg": {
+        "class": "meningioma"
+    },
+    "1447.jpg": {
+        "class": "meningioma"
+    },
+    "1448.jpg": {
+        "class": "meningioma"
+    },
+    "1449.jpg": {
+        "class": "meningioma"
+    },
+    "1450.jpg": {
+        "class": "meningioma"
+    },
+    "1451.jpg": {
+        "class": "meningioma"
+    },
+    "1452.jpg": {
+        "class": "meningioma"
+    },
+    "1453.jpg": {
+        "class": "meningioma"
+    },
+    "1454.jpg": {
+        "class": "meningioma"
+    },
+    "1455.jpg": {
+        "class": "meningioma"
+    },
+    "1456.jpg": {
+        "class": "meningioma"
+    },
+    "1457.jpg": {
+        "class": "meningioma"
+    },
+    "1458.jpg": {
+        "class": "meningioma"
+    },
+    "1459.jpg": {
+        "class": "meningioma"
+    },
+    "1460.jpg": {
+        "class": "meningioma"
+    },
+    "1461.jpg": {
+        "class": "meningioma"
+    },
+    "1462.jpg": {
+        "class": "meningioma"
+    },
+    "1463.jpg": {
+        "class": "meningioma"
+    },
+    "1464.jpg": {
+        "class": "meningioma"
+    },
+    "1465.jpg": {
+        "class": "meningioma"
+    },
+    "1466.jpg": {
+        "class": "meningioma"
+    },
+    "1467.jpg": {
+        "class": "meningioma"
+    },
+    "1468.jpg": {
+        "class": "meningioma"
+    },
+    "1469.jpg": {
+        "class": "meningioma"
+    },
+    "1470.jpg": {
+        "class": "meningioma"
+    },
+    "1471.jpg": {
+        "class": "meningioma"
+    },
+    "1472.jpg": {
+        "class": "meningioma"
+    },
+    "1473.jpg": {
+        "class": "meningioma"
+    },
+    "1474.jpg": {
+        "class": "meningioma"
+    },
+    "1475.jpg": {
+        "class": "meningioma"
+    },
+    "1476.jpg": {
+        "class": "meningioma"
+    },
+    "1477.jpg": {
+        "class": "meningioma"
+    },
+    "1478.jpg": {
+        "class": "meningioma"
+    },
+    "1479.jpg": {
+        "class": "meningioma"
+    },
+    "1480.jpg": {
+        "class": "meningioma"
+    },
+    "1481.jpg": {
+        "class": "meningioma"
+    },
+    "1482.jpg": {
+        "class": "meningioma"
+    },
+    "1483.jpg": {
+        "class": "meningioma"
+    },
+    "1484.jpg": {
+        "class": "meningioma"
+    },
+    "1485.jpg": {
+        "class": "meningioma"
+    },
+    "1486.jpg": {
+        "class": "meningioma"
+    },
+    "1487.jpg": {
+        "class": "meningioma"
+    },
+    "1488.jpg": {
+        "class": "meningioma"
+    },
+    "1489.jpg": {
+        "class": "meningioma"
+    },
+    "1490.jpg": {
+        "class": "meningioma"
+    },
+    "1491.jpg": {
+        "class": "meningioma"
+    },
+    "1492.jpg": {
+        "class": "meningioma"
+    },
+    "1493.jpg": {
+        "class": "meningioma"
+    },
+    "1494.jpg": {
+        "class": "meningioma"
+    },
+    "1495.jpg": {
+        "class": "meningioma"
+    },
+    "1496.jpg": {
+        "class": "meningioma"
+    },
+    "1497.jpg": {
+        "class": "meningioma"
+    },
+    "1498.jpg": {
+        "class": "meningioma"
+    },
+    "1499.jpg": {
+        "class": "meningioma"
+    },
+    "1500.jpg": {
+        "class": "meningioma"
+    },
+    "1501.jpg": {
+        "class": "meningioma"
+    },
+    "1502.jpg": {
+        "class": "meningioma"
+    },
+    "1503.jpg": {
+        "class": "meningioma"
+    },
+    "1504.jpg": {
+        "class": "meningioma"
+    },
+    "1505.jpg": {
+        "class": "meningioma"
+    },
+    "1506.jpg": {
+        "class": "meningioma"
+    },
+    "1507.jpg": {
+        "class": "meningioma"
+    },
+    "1508.jpg": {
+        "class": "meningioma"
+    },
+    "1509.jpg": {
+        "class": "meningioma"
+    },
+    "1510.jpg": {
+        "class": "meningioma"
+    },
+    "1511.jpg": {
+        "class": "meningioma"
+    },
+    "1512.jpg": {
+        "class": "meningioma"
+    },
+    "1513.jpg": {
+        "class": "meningioma"
+    },
+    "1514.jpg": {
+        "class": "meningioma"
+    },
+    "1515.jpg": {
+        "class": "meningioma"
+    },
+    "1516.jpg": {
+        "class": "meningioma"
+    },
+    "1517.jpg": {
+        "class": "meningioma"
+    },
+    "1518.jpg": {
+        "class": "meningioma"
+    },
+    "1519.jpg": {
+        "class": "meningioma"
+    },
+    "1520.jpg": {
+        "class": "meningioma"
+    },
+    "1521.jpg": {
+        "class": "meningioma"
+    },
+    "1522.jpg": {
+        "class": "meningioma"
+    },
+    "1523.jpg": {
+        "class": "meningioma"
+    },
+    "1524.jpg": {
+        "class": "meningioma"
+    },
+    "1525.jpg": {
+        "class": "meningioma"
+    },
+    "1526.jpg": {
+        "class": "meningioma"
+    },
+    "1527.jpg": {
+        "class": "meningioma"
+    },
+    "1528.jpg": {
+        "class": "meningioma"
+    },
+    "1529.jpg": {
+        "class": "meningioma"
+    },
+    "1530.jpg": {
+        "class": "meningioma"
+    },
+    "1531.jpg": {
+        "class": "meningioma"
+    },
+    "1532.jpg": {
+        "class": "meningioma"
+    },
+    "1533.jpg": {
+        "class": "meningioma"
+    },
+    "1534.jpg": {
+        "class": "meningioma"
+    },
+    "1535.jpg": {
+        "class": "meningioma"
+    },
+    "1536.jpg": {
+        "class": "meningioma"
+    },
+    "1537.jpg": {
+        "class": "meningioma"
+    },
+    "1538.jpg": {
+        "class": "meningioma"
+    },
+    "1539.jpg": {
+        "class": "meningioma"
+    },
+    "1540.jpg": {
+        "class": "meningioma"
+    },
+    "1541.jpg": {
+        "class": "meningioma"
+    },
+    "1542.jpg": {
+        "class": "meningioma"
+    },
+    "1543.jpg": {
+        "class": "meningioma"
+    },
+    "1544.jpg": {
+        "class": "meningioma"
+    },
+    "1545.jpg": {
+        "class": "meningioma"
+    },
+    "1546.jpg": {
+        "class": "meningioma"
+    },
+    "1547.jpg": {
+        "class": "meningioma"
+    },
+    "1548.jpg": {
+        "class": "meningioma"
+    },
+    "1549.jpg": {
+        "class": "meningioma"
+    },
+    "1550.jpg": {
+        "class": "meningioma"
+    },
+    "1551.jpg": {
+        "class": "meningioma"
+    },
+    "1552.jpg": {
+        "class": "meningioma"
+    },
+    "1553.jpg": {
+        "class": "meningioma"
+    },
+    "1554.jpg": {
+        "class": "meningioma"
+    },
+    "1555.jpg": {
+        "class": "meningioma"
+    },
+    "1556.jpg": {
+        "class": "meningioma"
+    },
+    "1557.jpg": {
+        "class": "meningioma"
+    },
+    "1558.jpg": {
+        "class": "meningioma"
+    },
+    "1559.jpg": {
+        "class": "meningioma"
+    },
+    "1560.jpg": {
+        "class": "meningioma"
+    },
+    "1561.jpg": {
+        "class": "meningioma"
+    },
+    "1562.jpg": {
+        "class": "meningioma"
+    },
+    "1563.jpg": {
+        "class": "meningioma"
+    },
+    "1564.jpg": {
+        "class": "meningioma"
+    },
+    "1565.jpg": {
+        "class": "meningioma"
+    },
+    "1566.jpg": {
+        "class": "meningioma"
+    },
+    "1567.jpg": {
+        "class": "meningioma"
+    },
+    "1568.jpg": {
+        "class": "meningioma"
+    },
+    "1569.jpg": {
+        "class": "meningioma"
+    },
+    "1570.jpg": {
+        "class": "meningioma"
+    },
+    "1571.jpg": {
+        "class": "meningioma"
+    },
+    "1572.jpg": {
+        "class": "meningioma"
+    },
+    "1573.jpg": {
+        "class": "meningioma"
+    },
+    "1574.jpg": {
+        "class": "meningioma"
+    },
+    "1575.jpg": {
+        "class": "meningioma"
+    },
+    "1576.jpg": {
+        "class": "meningioma"
+    },
+    "1577.jpg": {
+        "class": "meningioma"
+    },
+    "1578.jpg": {
+        "class": "meningioma"
+    },
+    "1579.jpg": {
+        "class": "meningioma"
+    },
+    "1580.jpg": {
+        "class": "meningioma"
+    },
+    "1581.jpg": {
+        "class": "meningioma"
+    },
+    "1582.jpg": {
+        "class": "meningioma"
+    },
+    "1583.jpg": {
+        "class": "meningioma"
+    },
+    "1584.jpg": {
+        "class": "meningioma"
+    },
+    "1585.jpg": {
+        "class": "meningioma"
+    },
+    "1586.jpg": {
+        "class": "meningioma"
+    },
+    "1587.jpg": {
+        "class": "meningioma"
+    },
+    "1588.jpg": {
+        "class": "meningioma"
+    },
+    "1589.jpg": {
+        "class": "meningioma"
+    },
+    "1590.jpg": {
+        "class": "meningioma"
+    },
+    "1591.jpg": {
+        "class": "meningioma"
+    },
+    "1592.jpg": {
+        "class": "meningioma"
+    },
+    "1593.jpg": {
+        "class": "meningioma"
+    },
+    "1594.jpg": {
+        "class": "meningioma"
+    },
+    "1595.jpg": {
+        "class": "meningioma"
+    },
+    "1596.jpg": {
+        "class": "meningioma"
+    },
+    "1597.jpg": {
+        "class": "meningioma"
+    },
+    "1598.jpg": {
+        "class": "meningioma"
+    },
+    "1599.jpg": {
+        "class": "meningioma"
+    },
+    "1600.jpg": {
+        "class": "meningioma"
+    },
+    "1601.jpg": {
+        "class": "meningioma"
+    },
+    "1602.jpg": {
+        "class": "meningioma"
+    },
+    "1603.jpg": {
+        "class": "meningioma"
+    },
+    "1604.jpg": {
+        "class": "meningioma"
+    },
+    "1605.jpg": {
+        "class": "meningioma"
+    },
+    "1606.jpg": {
+        "class": "meningioma"
+    },
+    "1607.jpg": {
+        "class": "meningioma"
+    },
+    "1608.jpg": {
+        "class": "meningioma"
+    },
+    "1609.jpg": {
+        "class": "meningioma"
+    },
+    "1610.jpg": {
+        "class": "meningioma"
+    },
+    "1611.jpg": {
+        "class": "meningioma"
+    },
+    "1612.jpg": {
+        "class": "meningioma"
+    },
+    "1613.jpg": {
+        "class": "meningioma"
+    },
+    "1614.jpg": {
+        "class": "meningioma"
+    },
+    "1615.jpg": {
+        "class": "meningioma"
+    },
+    "1616.jpg": {
+        "class": "meningioma"
+    },
+    "1617.jpg": {
+        "class": "meningioma"
+    },
+    "1618.jpg": {
+        "class": "meningioma"
+    },
+    "1619.jpg": {
+        "class": "meningioma"
+    },
+    "1620.jpg": {
+        "class": "meningioma"
+    },
+    "1621.jpg": {
+        "class": "meningioma"
+    },
+    "1622.jpg": {
+        "class": "meningioma"
+    },
+    "1623.jpg": {
+        "class": "meningioma"
+    },
+    "1624.jpg": {
+        "class": "meningioma"
+    },
+    "1625.jpg": {
+        "class": "meningioma"
+    },
+    "1626.jpg": {
+        "class": "meningioma"
+    },
+    "1627.jpg": {
+        "class": "meningioma"
+    },
+    "1628.jpg": {
+        "class": "meningioma"
+    },
+    "1629.jpg": {
+        "class": "meningioma"
+    },
+    "1630.jpg": {
+        "class": "meningioma"
+    },
+    "1631.jpg": {
+        "class": "meningioma"
+    },
+    "1632.jpg": {
+        "class": "meningioma"
+    },
+    "1633.jpg": {
+        "class": "meningioma"
+    },
+    "1634.jpg": {
+        "class": "meningioma"
+    },
+    "1635.jpg": {
+        "class": "meningioma"
+    },
+    "1636.jpg": {
+        "class": "meningioma"
+    },
+    "1637.jpg": {
+        "class": "meningioma"
+    },
+    "1638.jpg": {
+        "class": "meningioma"
+    },
+    "1639.jpg": {
+        "class": "meningioma"
+    },
+    "1640.jpg": {
+        "class": "meningioma"
+    },
+    "1641.jpg": {
+        "class": "meningioma"
+    },
+    "1642.jpg": {
+        "class": "meningioma"
+    },
+    "1643.jpg": {
+        "class": "meningioma"
+    },
+    "1644.jpg": {
+        "class": "meningioma"
+    },
+    "1645.jpg": {
+        "class": "meningioma"
+    },
+    "1646.jpg": {
+        "class": "meningioma"
+    },
+    "1647.jpg": {
+        "class": "meningioma"
+    },
+    "1648.jpg": {
+        "class": " pituitary"
+    },
+    "1649.jpg": {
+        "class": " pituitary"
+    },
+    "1650.jpg": {
+        "class": " pituitary"
+    },
+    "1651.jpg": {
+        "class": " pituitary"
+    },
+    "1652.jpg": {
+        "class": " pituitary"
+    },
+    "1653.jpg": {
+        "class": " pituitary"
+    },
+    "1654.jpg": {
+        "class": " pituitary"
+    },
+    "1655.jpg": {
+        "class": " pituitary"
+    },
+    "1656.jpg": {
+        "class": " pituitary"
+    },
+    "1657.jpg": {
+        "class": " pituitary"
+    },
+    "1658.jpg": {
+        "class": " pituitary"
+    },
+    "1659.jpg": {
+        "class": " pituitary"
+    },
+    "1660.jpg": {
+        "class": " pituitary"
+    },
+    "1661.jpg": {
+        "class": " pituitary"
+    },
+    "1662.jpg": {
+        "class": " pituitary"
+    },
+    "1663.jpg": {
+        "class": " pituitary"
+    },
+    "1664.jpg": {
+        "class": " pituitary"
+    },
+    "1665.jpg": {
+        "class": " pituitary"
+    },
+    "1666.jpg": {
+        "class": " pituitary"
+    },
+    "1667.jpg": {
+        "class": " pituitary"
+    },
+    "1668.jpg": {
+        "class": " pituitary"
+    },
+    "1669.jpg": {
+        "class": " pituitary"
+    },
+    "1670.jpg": {
+        "class": " pituitary"
+    },
+    "1671.jpg": {
+        "class": " pituitary"
+    },
+    "1672.jpg": {
+        "class": " pituitary"
+    },
+    "1673.jpg": {
+        "class": " pituitary"
+    },
+    "1674.jpg": {
+        "class": " pituitary"
+    },
+    "1675.jpg": {
+        "class": " pituitary"
+    },
+    "1676.jpg": {
+        "class": " pituitary"
+    },
+    "1677.jpg": {
+        "class": " pituitary"
+    },
+    "1678.jpg": {
+        "class": " pituitary"
+    },
+    "1679.jpg": {
+        "class": " pituitary"
+    },
+    "1680.jpg": {
+        "class": " pituitary"
+    },
+    "1681.jpg": {
+        "class": " pituitary"
+    },
+    "1682.jpg": {
+        "class": " pituitary"
+    },
+    "1683.jpg": {
+        "class": " pituitary"
+    },
+    "1684.jpg": {
+        "class": " pituitary"
+    },
+    "1685.jpg": {
+        "class": " pituitary"
+    },
+    "1686.jpg": {
+        "class": " pituitary"
+    },
+    "1687.jpg": {
+        "class": " pituitary"
+    },
+    "1688.jpg": {
+        "class": " pituitary"
+    },
+    "1689.jpg": {
+        "class": " pituitary"
+    },
+    "1690.jpg": {
+        "class": " pituitary"
+    },
+    "1691.jpg": {
+        "class": " pituitary"
+    },
+    "1692.jpg": {
+        "class": " pituitary"
+    },
+    "1693.jpg": {
+        "class": " pituitary"
+    },
+    "1694.jpg": {
+        "class": " pituitary"
+    },
+    "1695.jpg": {
+        "class": " pituitary"
+    },
+    "1696.jpg": {
+        "class": " pituitary"
+    },
+    "1697.jpg": {
+        "class": " pituitary"
+    },
+    "1698.jpg": {
+        "class": " pituitary"
+    },
+    "1699.jpg": {
+        "class": " pituitary"
+    },
+    "1700.jpg": {
+        "class": " pituitary"
+    },
+    "1701.jpg": {
+        "class": " pituitary"
+    },
+    "1702.jpg": {
+        "class": " pituitary"
+    },
+    "1703.jpg": {
+        "class": " pituitary"
+    },
+    "1704.jpg": {
+        "class": " pituitary"
+    },
+    "1705.jpg": {
+        "class": " pituitary"
+    },
+    "1706.jpg": {
+        "class": " pituitary"
+    },
+    "1707.jpg": {
+        "class": " pituitary"
+    },
+    "1708.jpg": {
+        "class": " pituitary"
+    },
+    "1709.jpg": {
+        "class": " pituitary"
+    },
+    "1710.jpg": {
+        "class": " pituitary"
+    },
+    "1711.jpg": {
+        "class": " pituitary"
+    },
+    "1712.jpg": {
+        "class": " pituitary"
+    },
+    "1713.jpg": {
+        "class": " pituitary"
+    },
+    "1714.jpg": {
+        "class": " pituitary"
+    },
+    "1715.jpg": {
+        "class": " pituitary"
+    },
+    "1716.jpg": {
+        "class": " pituitary"
+    },
+    "1717.jpg": {
+        "class": " pituitary"
+    },
+    "1718.jpg": {
+        "class": " pituitary"
+    },
+    "1719.jpg": {
+        "class": " pituitary"
+    },
+    "1720.jpg": {
+        "class": " pituitary"
+    },
+    "1721.jpg": {
+        "class": " pituitary"
+    },
+    "1722.jpg": {
+        "class": " pituitary"
+    },
+    "1723.jpg": {
+        "class": " pituitary"
+    },
+    "1724.jpg": {
+        "class": " pituitary"
+    },
+    "1725.jpg": {
+        "class": " pituitary"
+    },
+    "1726.jpg": {
+        "class": " pituitary"
+    },
+    "1727.jpg": {
+        "class": " pituitary"
+    },
+    "1728.jpg": {
+        "class": " pituitary"
+    },
+    "1729.jpg": {
+        "class": " pituitary"
+    },
+    "1730.jpg": {
+        "class": " pituitary"
+    },
+    "1731.jpg": {
+        "class": " pituitary"
+    },
+    "1732.jpg": {
+        "class": " pituitary"
+    },
+    "1733.jpg": {
+        "class": " pituitary"
+    },
+    "1734.jpg": {
+        "class": " pituitary"
+    },
+    "1735.jpg": {
+        "class": " pituitary"
+    },
+    "1736.jpg": {
+        "class": " pituitary"
+    },
+    "1737.jpg": {
+        "class": " pituitary"
+    },
+    "1738.jpg": {
+        "class": " pituitary"
+    },
+    "1739.jpg": {
+        "class": " pituitary"
+    },
+    "1740.jpg": {
+        "class": " pituitary"
+    },
+    "1741.jpg": {
+        "class": " pituitary"
+    },
+    "1742.jpg": {
+        "class": " pituitary"
+    },
+    "1743.jpg": {
+        "class": " pituitary"
+    },
+    "1744.jpg": {
+        "class": " pituitary"
+    },
+    "1745.jpg": {
+        "class": " pituitary"
+    },
+    "1746.jpg": {
+        "class": " pituitary"
+    },
+    "1747.jpg": {
+        "class": " pituitary"
+    },
+    "1748.jpg": {
+        "class": " pituitary"
+    },
+    "1749.jpg": {
+        "class": " pituitary"
+    },
+    "1750.jpg": {
+        "class": " pituitary"
+    },
+    "1751.jpg": {
+        "class": " pituitary"
+    },
+    "1752.jpg": {
+        "class": " pituitary"
+    },
+    "1753.jpg": {
+        "class": " pituitary"
+    },
+    "1754.jpg": {
+        "class": " pituitary"
+    },
+    "1755.jpg": {
+        "class": " pituitary"
+    },
+    "1756.jpg": {
+        "class": " pituitary"
+    },
+    "1757.jpg": {
+        "class": " pituitary"
+    },
+    "1758.jpg": {
+        "class": " pituitary"
+    },
+    "1759.jpg": {
+        "class": " pituitary"
+    },
+    "1760.jpg": {
+        "class": " pituitary"
+    },
+    "1761.jpg": {
+        "class": " pituitary"
+    },
+    "1762.jpg": {
+        "class": " pituitary"
+    },
+    "1763.jpg": {
+        "class": " pituitary"
+    },
+    "1764.jpg": {
+        "class": " pituitary"
+    },
+    "1765.jpg": {
+        "class": " pituitary"
+    },
+    "1766.jpg": {
+        "class": " pituitary"
+    },
+    "1767.jpg": {
+        "class": " pituitary"
+    },
+    "1768.jpg": {
+        "class": " pituitary"
+    },
+    "1769.jpg": {
+        "class": " pituitary"
+    },
+    "1770.jpg": {
+        "class": " pituitary"
+    },
+    "1771.jpg": {
+        "class": " pituitary"
+    },
+    "1772.jpg": {
+        "class": " pituitary"
+    },
+    "1773.jpg": {
+        "class": " pituitary"
+    },
+    "1774.jpg": {
+        "class": " pituitary"
+    },
+    "1775.jpg": {
+        "class": " pituitary"
+    },
+    "1776.jpg": {
+        "class": " pituitary"
+    },
+    "1777.jpg": {
+        "class": " pituitary"
+    },
+    "1778.jpg": {
+        "class": " pituitary"
+    },
+    "1779.jpg": {
+        "class": " pituitary"
+    },
+    "1780.jpg": {
+        "class": " pituitary"
+    },
+    "1781.jpg": {
+        "class": " pituitary"
+    },
+    "1782.jpg": {
+        "class": " pituitary"
+    },
+    "1783.jpg": {
+        "class": " pituitary"
+    },
+    "1784.jpg": {
+        "class": " pituitary"
+    },
+    "1785.jpg": {
+        "class": " pituitary"
+    },
+    "1786.jpg": {
+        "class": " pituitary"
+    },
+    "1787.jpg": {
+        "class": " pituitary"
+    },
+    "1788.jpg": {
+        "class": " pituitary"
+    },
+    "1789.jpg": {
+        "class": " pituitary"
+    },
+    "1790.jpg": {
+        "class": " pituitary"
+    },
+    "1791.jpg": {
+        "class": " pituitary"
+    },
+    "1792.jpg": {
+        "class": " pituitary"
+    },
+    "1793.jpg": {
+        "class": " pituitary"
+    },
+    "1794.jpg": {
+        "class": " pituitary"
+    },
+    "1795.jpg": {
+        "class": " pituitary"
+    },
+    "1796.jpg": {
+        "class": " pituitary"
+    },
+    "1797.jpg": {
+        "class": " pituitary"
+    },
+    "1798.jpg": {
+        "class": " pituitary"
+    },
+    "1799.jpg": {
+        "class": " pituitary"
+    },
+    "1800.jpg": {
+        "class": " pituitary"
+    },
+    "1801.jpg": {
+        "class": " pituitary"
+    },
+    "1802.jpg": {
+        "class": " pituitary"
+    },
+    "1803.jpg": {
+        "class": " pituitary"
+    },
+    "1804.jpg": {
+        "class": " pituitary"
+    },
+    "1805.jpg": {
+        "class": " pituitary"
+    },
+    "1806.jpg": {
+        "class": " pituitary"
+    },
+    "1807.jpg": {
+        "class": " pituitary"
+    },
+    "1808.jpg": {
+        "class": " pituitary"
+    },
+    "1809.jpg": {
+        "class": " pituitary"
+    },
+    "1810.jpg": {
+        "class": " pituitary"
+    },
+    "1811.jpg": {
+        "class": " pituitary"
+    },
+    "1812.jpg": {
+        "class": " pituitary"
+    },
+    "1813.jpg": {
+        "class": " pituitary"
+    },
+    "1814.jpg": {
+        "class": " pituitary"
+    },
+    "1815.jpg": {
+        "class": " pituitary"
+    },
+    "1816.jpg": {
+        "class": " pituitary"
+    },
+    "1817.jpg": {
+        "class": " pituitary"
+    },
+    "1818.jpg": {
+        "class": " pituitary"
+    },
+    "1819.jpg": {
+        "class": " pituitary"
+    },
+    "1820.jpg": {
+        "class": " pituitary"
+    },
+    "1821.jpg": {
+        "class": " pituitary"
+    },
+    "1822.jpg": {
+        "class": " pituitary"
+    },
+    "1823.jpg": {
+        "class": " pituitary"
+    },
+    "1824.jpg": {
+        "class": " pituitary"
+    },
+    "1825.jpg": {
+        "class": " pituitary"
+    },
+    "1826.jpg": {
+        "class": " pituitary"
+    },
+    "1827.jpg": {
+        "class": " pituitary"
+    },
+    "1828.jpg": {
+        "class": " pituitary"
+    },
+    "1829.jpg": {
+        "class": " pituitary"
+    },
+    "1830.jpg": {
+        "class": " pituitary"
+    },
+    "1831.jpg": {
+        "class": " pituitary"
+    },
+    "1832.jpg": {
+        "class": " pituitary"
+    },
+    "1833.jpg": {
+        "class": " pituitary"
+    },
+    "1834.jpg": {
+        "class": " pituitary"
+    },
+    "1835.jpg": {
+        "class": " pituitary"
+    },
+    "1836.jpg": {
+        "class": " pituitary"
+    },
+    "1837.jpg": {
+        "class": " pituitary"
+    },
+    "1838.jpg": {
+        "class": " pituitary"
+    },
+    "1839.jpg": {
+        "class": " pituitary"
+    },
+    "1840.jpg": {
+        "class": " pituitary"
+    },
+    "1841.jpg": {
+        "class": " pituitary"
+    },
+    "1842.jpg": {
+        "class": " pituitary"
+    },
+    "1843.jpg": {
+        "class": " pituitary"
+    },
+    "1844.jpg": {
+        "class": " pituitary"
+    },
+    "1845.jpg": {
+        "class": " pituitary"
+    },
+    "1846.jpg": {
+        "class": " pituitary"
+    },
+    "1847.jpg": {
+        "class": " pituitary"
+    },
+    "1848.jpg": {
+        "class": " pituitary"
+    },
+    "1849.jpg": {
+        "class": " pituitary"
+    },
+    "1850.jpg": {
+        "class": " pituitary"
+    },
+    "1851.jpg": {
+        "class": " pituitary"
+    },
+    "1852.jpg": {
+        "class": " pituitary"
+    },
+    "1853.jpg": {
+        "class": " pituitary"
+    },
+    "1854.jpg": {
+        "class": " pituitary"
+    },
+    "1855.jpg": {
+        "class": " pituitary"
+    },
+    "1856.jpg": {
+        "class": " pituitary"
+    },
+    "1857.jpg": {
+        "class": " pituitary"
+    },
+    "1858.jpg": {
+        "class": " pituitary"
+    },
+    "1859.jpg": {
+        "class": " pituitary"
+    },
+    "1860.jpg": {
+        "class": " pituitary"
+    },
+    "1861.jpg": {
+        "class": " pituitary"
+    },
+    "1862.jpg": {
+        "class": " pituitary"
+    },
+    "1863.jpg": {
+        "class": " pituitary"
+    },
+    "1864.jpg": {
+        "class": " pituitary"
+    },
+    "1865.jpg": {
+        "class": " pituitary"
+    },
+    "1866.jpg": {
+        "class": " pituitary"
+    },
+    "1867.jpg": {
+        "class": " pituitary"
+    },
+    "1868.jpg": {
+        "class": " pituitary"
+    },
+    "1869.jpg": {
+        "class": " pituitary"
+    },
+    "1870.jpg": {
+        "class": " pituitary"
+    },
+    "1871.jpg": {
+        "class": " pituitary"
+    },
+    "1872.jpg": {
+        "class": " pituitary"
+    },
+    "1873.jpg": {
+        "class": " pituitary"
+    },
+    "1874.jpg": {
+        "class": " pituitary"
+    },
+    "1875.jpg": {
+        "class": " pituitary"
+    },
+    "1876.jpg": {
+        "class": " pituitary"
+    },
+    "1877.jpg": {
+        "class": " pituitary"
+    },
+    "1878.jpg": {
+        "class": " pituitary"
+    },
+    "1879.jpg": {
+        "class": " pituitary"
+    },
+    "1880.jpg": {
+        "class": " pituitary"
+    },
+    "1881.jpg": {
+        "class": " pituitary"
+    },
+    "1882.jpg": {
+        "class": " pituitary"
+    },
+    "1883.jpg": {
+        "class": " pituitary"
+    },
+    "1884.jpg": {
+        "class": " pituitary"
+    },
+    "1885.jpg": {
+        "class": " pituitary"
+    },
+    "1886.jpg": {
+        "class": " pituitary"
+    },
+    "1887.jpg": {
+        "class": " pituitary"
+    },
+    "1888.jpg": {
+        "class": " pituitary"
+    },
+    "1889.jpg": {
+        "class": " pituitary"
+    },
+    "1890.jpg": {
+        "class": " pituitary"
+    },
+    "1891.jpg": {
+        "class": " pituitary"
+    },
+    "1892.jpg": {
+        "class": " pituitary"
+    },
+    "1893.jpg": {
+        "class": " pituitary"
+    },
+    "1894.jpg": {
+        "class": " pituitary"
+    },
+    "1895.jpg": {
+        "class": " pituitary"
+    },
+    "1896.jpg": {
+        "class": " pituitary"
+    },
+    "1897.jpg": {
+        "class": " pituitary"
+    },
+    "1898.jpg": {
+        "class": " pituitary"
+    },
+    "1899.jpg": {
+        "class": " pituitary"
+    },
+    "1900.jpg": {
+        "class": " pituitary"
+    },
+    "1901.jpg": {
+        "class": " pituitary"
+    },
+    "1902.jpg": {
+        "class": " pituitary"
+    },
+    "1903.jpg": {
+        "class": " pituitary"
+    },
+    "1904.jpg": {
+        "class": " pituitary"
+    },
+    "1905.jpg": {
+        "class": " pituitary"
+    },
+    "1906.jpg": {
+        "class": " pituitary"
+    },
+    "1907.jpg": {
+        "class": " pituitary"
+    },
+    "1908.jpg": {
+        "class": " pituitary"
+    },
+    "1909.jpg": {
+        "class": " pituitary"
+    },
+    "1910.jpg": {
+        "class": " pituitary"
+    },
+    "1911.jpg": {
+        "class": " pituitary"
+    },
+    "1912.jpg": {
+        "class": " pituitary"
+    },
+    "1913.jpg": {
+        "class": " pituitary"
+    },
+    "1914.jpg": {
+        "class": " pituitary"
+    },
+    "1915.jpg": {
+        "class": " pituitary"
+    },
+    "1916.jpg": {
+        "class": " pituitary"
+    },
+    "1917.jpg": {
+        "class": " pituitary"
+    },
+    "1918.jpg": {
+        "class": " pituitary"
+    },
+    "1919.jpg": {
+        "class": " pituitary"
+    },
+    "1920.jpg": {
+        "class": " pituitary"
+    },
+    "1921.jpg": {
+        "class": " pituitary"
+    },
+    "1922.jpg": {
+        "class": " pituitary"
+    },
+    "1923.jpg": {
+        "class": " pituitary"
+    },
+    "1924.jpg": {
+        "class": " pituitary"
+    },
+    "1925.jpg": {
+        "class": " pituitary"
+    },
+    "1926.jpg": {
+        "class": " pituitary"
+    },
+    "1927.jpg": {
+        "class": " pituitary"
+    },
+    "1928.jpg": {
+        "class": " pituitary"
+    },
+    "1929.jpg": {
+        "class": " pituitary"
+    },
+    "1930.jpg": {
+        "class": " pituitary"
+    },
+    "1931.jpg": {
+        "class": " pituitary"
+    },
+    "1932.jpg": {
+        "class": " pituitary"
+    },
+    "1933.jpg": {
+        "class": " pituitary"
+    },
+    "1934.jpg": {
+        "class": " pituitary"
+    },
+    "1935.jpg": {
+        "class": " pituitary"
+    },
+    "1936.jpg": {
+        "class": " pituitary"
+    },
+    "1937.jpg": {
+        "class": " pituitary"
+    },
+    "1938.jpg": {
+        "class": " pituitary"
+    },
+    "1939.jpg": {
+        "class": " pituitary"
+    },
+    "1940.jpg": {
+        "class": " pituitary"
+    },
+    "1941.jpg": {
+        "class": " pituitary"
+    },
+    "1942.jpg": {
+        "class": " pituitary"
+    },
+    "1943.jpg": {
+        "class": " pituitary"
+    },
+    "1944.jpg": {
+        "class": " pituitary"
+    },
+    "1945.jpg": {
+        "class": " pituitary"
+    },
+    "1946.jpg": {
+        "class": " pituitary"
+    },
+    "1947.jpg": {
+        "class": " pituitary"
+    },
+    "1948.jpg": {
+        "class": " pituitary"
+    },
+    "1949.jpg": {
+        "class": " pituitary"
+    },
+    "1950.jpg": {
+        "class": " pituitary"
+    },
+    "1951.jpg": {
+        "class": " pituitary"
+    },
+    "1952.jpg": {
+        "class": " pituitary"
+    },
+    "1953.jpg": {
+        "class": " pituitary"
+    },
+    "1954.jpg": {
+        "class": " pituitary"
+    },
+    "1955.jpg": {
+        "class": " pituitary"
+    },
+    "1956.jpg": {
+        "class": " pituitary"
+    },
+    "1957.jpg": {
+        "class": " pituitary"
+    },
+    "1958.jpg": {
+        "class": " pituitary"
+    },
+    "1959.jpg": {
+        "class": " pituitary"
+    },
+    "1960.jpg": {
+        "class": " pituitary"
+    },
+    "1961.jpg": {
+        "class": " pituitary"
+    },
+    "1962.jpg": {
+        "class": " pituitary"
+    },
+    "1963.jpg": {
+        "class": " pituitary"
+    },
+    "1964.jpg": {
+        "class": " pituitary"
+    },
+    "1965.jpg": {
+        "class": " pituitary"
+    },
+    "1966.jpg": {
+        "class": " pituitary"
+    },
+    "1967.jpg": {
+        "class": " pituitary"
+    },
+    "1968.jpg": {
+        "class": " pituitary"
+    },
+    "1969.jpg": {
+        "class": " pituitary"
+    },
+    "1970.jpg": {
+        "class": " pituitary"
+    },
+    "1971.jpg": {
+        "class": " pituitary"
+    },
+    "1972.jpg": {
+        "class": " pituitary"
+    },
+    "1973.jpg": {
+        "class": " pituitary"
+    },
+    "1974.jpg": {
+        "class": " pituitary"
+    },
+    "1975.jpg": {
+        "class": " pituitary"
+    },
+    "1976.jpg": {
+        "class": " pituitary"
+    },
+    "1977.jpg": {
+        "class": " pituitary"
+    },
+    "1978.jpg": {
+        "class": " pituitary"
+    },
+    "1979.jpg": {
+        "class": " pituitary"
+    },
+    "1980.jpg": {
+        "class": " pituitary"
+    },
+    "1981.jpg": {
+        "class": " pituitary"
+    },
+    "1982.jpg": {
+        "class": " pituitary"
+    },
+    "1983.jpg": {
+        "class": " pituitary"
+    },
+    "1984.jpg": {
+        "class": " pituitary"
+    },
+    "1985.jpg": {
+        "class": " pituitary"
+    },
+    "1986.jpg": {
+        "class": " pituitary"
+    },
+    "1987.jpg": {
+        "class": " pituitary"
+    },
+    "1988.jpg": {
+        "class": " pituitary"
+    },
+    "1989.jpg": {
+        "class": " pituitary"
+    },
+    "1990.jpg": {
+        "class": " pituitary"
+    },
+    "1991.jpg": {
+        "class": " pituitary"
+    },
+    "1992.jpg": {
+        "class": " pituitary"
+    },
+    "1993.jpg": {
+        "class": " pituitary"
+    },
+    "1994.jpg": {
+        "class": " pituitary"
+    },
+    "1995.jpg": {
+        "class": " pituitary"
+    },
+    "1996.jpg": {
+        "class": " pituitary"
+    },
+    "1997.jpg": {
+        "class": " pituitary"
+    },
+    "1998.jpg": {
+        "class": " pituitary"
+    },
+    "1999.jpg": {
+        "class": " pituitary"
+    },
+    "2000.jpg": {
+        "class": " pituitary"
+    },
+    "2001.jpg": {
+        "class": " pituitary"
+    },
+    "2002.jpg": {
+        "class": " pituitary"
+    },
+    "2003.jpg": {
+        "class": " pituitary"
+    },
+    "2004.jpg": {
+        "class": " pituitary"
+    },
+    "2005.jpg": {
+        "class": " pituitary"
+    },
+    "2006.jpg": {
+        "class": " pituitary"
+    },
+    "2007.jpg": {
+        "class": " pituitary"
+    },
+    "2008.jpg": {
+        "class": " pituitary"
+    },
+    "2009.jpg": {
+        "class": " pituitary"
+    },
+    "2010.jpg": {
+        "class": " pituitary"
+    },
+    "2011.jpg": {
+        "class": " pituitary"
+    },
+    "2012.jpg": {
+        "class": " pituitary"
+    },
+    "2013.jpg": {
+        "class": " pituitary"
+    },
+    "2014.jpg": {
+        "class": " pituitary"
+    },
+    "2015.jpg": {
+        "class": " pituitary"
+    },
+    "2016.jpg": {
+        "class": " pituitary"
+    },
+    "2017.jpg": {
+        "class": " pituitary"
+    },
+    "2018.jpg": {
+        "class": " pituitary"
+    },
+    "2019.jpg": {
+        "class": " pituitary"
+    },
+    "2020.jpg": {
+        "class": " pituitary"
+    },
+    "2021.jpg": {
+        "class": " pituitary"
+    },
+    "2022.jpg": {
+        "class": " pituitary"
+    },
+    "2023.jpg": {
+        "class": " pituitary"
+    },
+    "2024.jpg": {
+        "class": " pituitary"
+    },
+    "2025.jpg": {
+        "class": " pituitary"
+    },
+    "2026.jpg": {
+        "class": " pituitary"
+    },
+    "2027.jpg": {
+        "class": " pituitary"
+    },
+    "2028.jpg": {
+        "class": " pituitary"
+    },
+    "2029.jpg": {
+        "class": " pituitary"
+    },
+    "2030.jpg": {
+        "class": " pituitary"
+    },
+    "2031.jpg": {
+        "class": " pituitary"
+    },
+    "2032.jpg": {
+        "class": " pituitary"
+    },
+    "2033.jpg": {
+        "class": " pituitary"
+    },
+    "2034.jpg": {
+        "class": " pituitary"
+    },
+    "2035.jpg": {
+        "class": " pituitary"
+    },
+    "2036.jpg": {
+        "class": " pituitary"
+    },
+    "2037.jpg": {
+        "class": " pituitary"
+    },
+    "2038.jpg": {
+        "class": " pituitary"
+    },
+    "2039.jpg": {
+        "class": " pituitary"
+    },
+    "2040.jpg": {
+        "class": " pituitary"
+    },
+    "2041.jpg": {
+        "class": " pituitary"
+    },
+    "2042.jpg": {
+        "class": " pituitary"
+    },
+    "2043.jpg": {
+        "class": " pituitary"
+    },
+    "2044.jpg": {
+        "class": " pituitary"
+    },
+    "2045.jpg": {
+        "class": " pituitary"
+    },
+    "2046.jpg": {
+        "class": " pituitary"
+    },
+    "2047.jpg": {
+        "class": " pituitary"
+    },
+    "2048.jpg": {
+        "class": " pituitary"
+    },
+    "2049.jpg": {
+        "class": " pituitary"
+    },
+    "2050.jpg": {
+        "class": " pituitary"
+    },
+    "2051.jpg": {
+        "class": " pituitary"
+    },
+    "2052.jpg": {
+        "class": " pituitary"
+    },
+    "2053.jpg": {
+        "class": " pituitary"
+    },
+    "2054.jpg": {
+        "class": " pituitary"
+    },
+    "2055.jpg": {
+        "class": " pituitary"
+    },
+    "2056.jpg": {
+        "class": " pituitary"
+    },
+    "2057.jpg": {
+        "class": " pituitary"
+    },
+    "2058.jpg": {
+        "class": " pituitary"
+    },
+    "2059.jpg": {
+        "class": " pituitary"
+    },
+    "2060.jpg": {
+        "class": " pituitary"
+    },
+    "2061.jpg": {
+        "class": " pituitary"
+    },
+    "2062.jpg": {
+        "class": " pituitary"
+    },
+    "2063.jpg": {
+        "class": " pituitary"
+    },
+    "2064.jpg": {
+        "class": " pituitary"
+    },
+    "2065.jpg": {
+        "class": " pituitary"
+    },
+    "2066.jpg": {
+        "class": " pituitary"
+    },
+    "2067.jpg": {
+        "class": " pituitary"
+    },
+    "2068.jpg": {
+        "class": " pituitary"
+    },
+    "2069.jpg": {
+        "class": " pituitary"
+    },
+    "2070.jpg": {
+        "class": " pituitary"
+    },
+    "2071.jpg": {
+        "class": " pituitary"
+    },
+    "2072.jpg": {
+        "class": " pituitary"
+    },
+    "2073.jpg": {
+        "class": " pituitary"
+    },
+    "2074.jpg": {
+        "class": " pituitary"
+    },
+    "2075.jpg": {
+        "class": " pituitary"
+    },
+    "2076.jpg": {
+        "class": " pituitary"
+    },
+    "2077.jpg": {
+        "class": " pituitary"
+    },
+    "2078.jpg": {
+        "class": " pituitary"
+    },
+    "2079.jpg": {
+        "class": " pituitary"
+    },
+    "2080.jpg": {
+        "class": " pituitary"
+    },
+    "2081.jpg": {
+        "class": " pituitary"
+    },
+    "2082.jpg": {
+        "class": " pituitary"
+    },
+    "2083.jpg": {
+        "class": " pituitary"
+    },
+    "2084.jpg": {
+        "class": " pituitary"
+    },
+    "2085.jpg": {
+        "class": " pituitary"
+    },
+    "2086.jpg": {
+        "class": " pituitary"
+    },
+    "2087.jpg": {
+        "class": " pituitary"
+    },
+    "2088.jpg": {
+        "class": " pituitary"
+    },
+    "2089.jpg": {
+        "class": " pituitary"
+    },
+    "2090.jpg": {
+        "class": " pituitary"
+    },
+    "2091.jpg": {
+        "class": " pituitary"
+    },
+    "2092.jpg": {
+        "class": " pituitary"
+    },
+    "2093.jpg": {
+        "class": " pituitary"
+    },
+    "2094.jpg": {
+        "class": " pituitary"
+    },
+    "2095.jpg": {
+        "class": " pituitary"
+    },
+    "2096.jpg": {
+        "class": " pituitary"
+    },
+    "2097.jpg": {
+        "class": " pituitary"
+    },
+    "2098.jpg": {
+        "class": " pituitary"
+    },
+    "2099.jpg": {
+        "class": " pituitary"
+    },
+    "2100.jpg": {
+        "class": " pituitary"
+    },
+    "2101.jpg": {
+        "class": " pituitary"
+    },
+    "2102.jpg": {
+        "class": " pituitary"
+    },
+    "2103.jpg": {
+        "class": " pituitary"
+    },
+    "2104.jpg": {
+        "class": " pituitary"
+    },
+    "2105.jpg": {
+        "class": " pituitary"
+    },
+    "2106.jpg": {
+        "class": " pituitary"
+    },
+    "2107.jpg": {
+        "class": " pituitary"
+    },
+    "2108.jpg": {
+        "class": " pituitary"
+    },
+    "2109.jpg": {
+        "class": " pituitary"
+    },
+    "2110.jpg": {
+        "class": " pituitary"
+    },
+    "2111.jpg": {
+        "class": " pituitary"
+    },
+    "2112.jpg": {
+        "class": " pituitary"
+    },
+    "2113.jpg": {
+        "class": " pituitary"
+    },
+    "2114.jpg": {
+        "class": " pituitary"
+    },
+    "2115.jpg": {
+        "class": " pituitary"
+    },
+    "2116.jpg": {
+        "class": " pituitary"
+    },
+    "2117.jpg": {
+        "class": " pituitary"
+    },
+    "2118.jpg": {
+        "class": " pituitary"
+    },
+    "2119.jpg": {
+        "class": " pituitary"
+    },
+    "2120.jpg": {
+        "class": " pituitary"
+    },
+    "2121.jpg": {
+        "class": " pituitary"
+    },
+    "2122.jpg": {
+        "class": " pituitary"
+    },
+    "2123.jpg": {
+        "class": " pituitary"
+    },
+    "2124.jpg": {
+        "class": " pituitary"
+    },
+    "2125.jpg": {
+        "class": " pituitary"
+    },
+    "2126.jpg": {
+        "class": " pituitary"
+    },
+    "2127.jpg": {
+        "class": " pituitary"
+    },
+    "2128.jpg": {
+        "class": " pituitary"
+    },
+    "2129.jpg": {
+        "class": " pituitary"
+    },
+    "2130.jpg": {
+        "class": " pituitary"
+    },
+    "2131.jpg": {
+        "class": " pituitary"
+    },
+    "2132.jpg": {
+        "class": " pituitary"
+    },
+    "2133.jpg": {
+        "class": " pituitary"
+    },
+    "2134.jpg": {
+        "class": " pituitary"
+    },
+    "2135.jpg": {
+        "class": " pituitary"
+    },
+    "2136.jpg": {
+        "class": " pituitary"
+    },
+    "2137.jpg": {
+        "class": " pituitary"
+    },
+    "2138.jpg": {
+        "class": " pituitary"
+    },
+    "2139.jpg": {
+        "class": " pituitary"
+    },
+    "2140.jpg": {
+        "class": " pituitary"
+    },
+    "2141.jpg": {
+        "class": " pituitary"
+    },
+    "2142.jpg": {
+        "class": " pituitary"
+    },
+    "2143.jpg": {
+        "class": " pituitary"
+    },
+    "2144.jpg": {
+        "class": " pituitary"
+    },
+    "2145.jpg": {
+        "class": " pituitary"
+    },
+    "2146.jpg": {
+        "class": " pituitary"
+    },
+    "2147.jpg": {
+        "class": " pituitary"
+    },
+    "2148.jpg": {
+        "class": " pituitary"
+    },
+    "2149.jpg": {
+        "class": " pituitary"
+    },
+    "2150.jpg": {
+        "class": " pituitary"
+    },
+    "2151.jpg": {
+        "class": " pituitary"
+    },
+    "2152.jpg": {
+        "class": " pituitary"
+    },
+    "2153.jpg": {
+        "class": " pituitary"
+    },
+    "2154.jpg": {
+        "class": " pituitary"
+    },
+    "2155.jpg": {
+        "class": " pituitary"
+    },
+    "2156.jpg": {
+        "class": " pituitary"
+    },
+    "2157.jpg": {
+        "class": " pituitary"
+    },
+    "2158.jpg": {
+        "class": " pituitary"
+    },
+    "2159.jpg": {
+        "class": " pituitary"
+    },
+    "2160.jpg": {
+        "class": " pituitary"
+    },
+    "2161.jpg": {
+        "class": " pituitary"
+    },
+    "2162.jpg": {
+        "class": " pituitary"
+    },
+    "2163.jpg": {
+        "class": " pituitary"
+    },
+    "2164.jpg": {
+        "class": " pituitary"
+    },
+    "2165.jpg": {
+        "class": " pituitary"
+    },
+    "2166.jpg": {
+        "class": " pituitary"
+    },
+    "2167.jpg": {
+        "class": " pituitary"
+    },
+    "2168.jpg": {
+        "class": " pituitary"
+    },
+    "2169.jpg": {
+        "class": " pituitary"
+    },
+    "2170.jpg": {
+        "class": " pituitary"
+    },
+    "2171.jpg": {
+        "class": " pituitary"
+    },
+    "2172.jpg": {
+        "class": " pituitary"
+    },
+    "2173.jpg": {
+        "class": " pituitary"
+    },
+    "2174.jpg": {
+        "class": " pituitary"
+    },
+    "2175.jpg": {
+        "class": " pituitary"
+    },
+    "2176.jpg": {
+        "class": " pituitary"
+    },
+    "2177.jpg": {
+        "class": " pituitary"
+    },
+    "2178.jpg": {
+        "class": " pituitary"
+    },
+    "2179.jpg": {
+        "class": " pituitary"
+    },
+    "2180.jpg": {
+        "class": " pituitary"
+    },
+    "2181.jpg": {
+        "class": " pituitary"
+    },
+    "2182.jpg": {
+        "class": " pituitary"
+    },
+    "2183.jpg": {
+        "class": " pituitary"
+    },
+    "2184.jpg": {
+        "class": " pituitary"
+    },
+    "2185.jpg": {
+        "class": " pituitary"
+    },
+    "2186.jpg": {
+        "class": " pituitary"
+    },
+    "2187.jpg": {
+        "class": " pituitary"
+    },
+    "2188.jpg": {
+        "class": " pituitary"
+    },
+    "2189.jpg": {
+        "class": " pituitary"
+    },
+    "2190.jpg": {
+        "class": " pituitary"
+    },
+    "2191.jpg": {
+        "class": " pituitary"
+    },
+    "2192.jpg": {
+        "class": " pituitary"
+    },
+    "2193.jpg": {
+        "class": " pituitary"
+    },
+    "2194.jpg": {
+        "class": " pituitary"
+    },
+    "2195.jpg": {
+        "class": " pituitary"
+    },
+    "2196.jpg": {
+        "class": " pituitary"
+    },
+    "2197.jpg": {
+        "class": " pituitary"
+    },
+    "2198.jpg": {
+        "class": " pituitary"
+    },
+    "2199.jpg": {
+        "class": " pituitary"
+    },
+    "2200.jpg": {
+        "class": " pituitary"
+    },
+    "2201.jpg": {
+        "class": " pituitary"
+    },
+    "2202.jpg": {
+        "class": " pituitary"
+    },
+    "2203.jpg": {
+        "class": " pituitary"
+    },
+    "2204.jpg": {
+        "class": " pituitary"
+    },
+    "2205.jpg": {
+        "class": " pituitary"
+    },
+    "2206.jpg": {
+        "class": " pituitary"
+    },
+    "2207.jpg": {
+        "class": " pituitary"
+    },
+    "2208.jpg": {
+        "class": " pituitary"
+    },
+    "2209.jpg": {
+        "class": " pituitary"
+    },
+    "2210.jpg": {
+        "class": " pituitary"
+    },
+    "2211.jpg": {
+        "class": " pituitary"
+    },
+    "2212.jpg": {
+        "class": " pituitary"
+    },
+    "2213.jpg": {
+        "class": " pituitary"
+    },
+    "2214.jpg": {
+        "class": " pituitary"
+    },
+    "2215.jpg": {
+        "class": " pituitary"
+    },
+    "2216.jpg": {
+        "class": " pituitary"
+    },
+    "2217.jpg": {
+        "class": " pituitary"
+    },
+    "2218.jpg": {
+        "class": " pituitary"
+    },
+    "2219.jpg": {
+        "class": " pituitary"
+    },
+    "2220.jpg": {
+        "class": " pituitary"
+    },
+    "2221.jpg": {
+        "class": " pituitary"
+    },
+    "2222.jpg": {
+        "class": " pituitary"
+    },
+    "2223.jpg": {
+        "class": " pituitary"
+    },
+    "2224.jpg": {
+        "class": " pituitary"
+    },
+    "2225.jpg": {
+        "class": " pituitary"
+    },
+    "2226.jpg": {
+        "class": " pituitary"
+    },
+    "2227.jpg": {
+        "class": " pituitary"
+    },
+    "2228.jpg": {
+        "class": " pituitary"
+    },
+    "2229.jpg": {
+        "class": " pituitary"
+    },
+    "2230.jpg": {
+        "class": " pituitary"
+    },
+    "2231.jpg": {
+        "class": " pituitary"
+    },
+    "2232.jpg": {
+        "class": " pituitary"
+    },
+    "2233.jpg": {
+        "class": " pituitary"
+    },
+    "2234.jpg": {
+        "class": " pituitary"
+    },
+    "2235.jpg": {
+        "class": " pituitary"
+    },
+    "2236.jpg": {
+        "class": " pituitary"
+    },
+    "2237.jpg": {
+        "class": " pituitary"
+    },
+    "2238.jpg": {
+        "class": " pituitary"
+    },
+    "2239.jpg": {
+        "class": " pituitary"
+    },
+    "2240.jpg": {
+        "class": " pituitary"
+    },
+    "2241.jpg": {
+        "class": " pituitary"
+    },
+    "2242.jpg": {
+        "class": " pituitary"
+    },
+    "2243.jpg": {
+        "class": " pituitary"
+    },
+    "2244.jpg": {
+        "class": " pituitary"
+    },
+    "2245.jpg": {
+        "class": " pituitary"
+    },
+    "2246.jpg": {
+        "class": " pituitary"
+    },
+    "2247.jpg": {
+        "class": " pituitary"
+    },
+    "2248.jpg": {
+        "class": " pituitary"
+    },
+    "2249.jpg": {
+        "class": " pituitary"
+    },
+    "2250.jpg": {
+        "class": " pituitary"
+    },
+    "2251.jpg": {
+        "class": " pituitary"
+    },
+    "2252.jpg": {
+        "class": " pituitary"
+    },
+    "2253.jpg": {
+        "class": " pituitary"
+    },
+    "2254.jpg": {
+        "class": " pituitary"
+    },
+    "2255.jpg": {
+        "class": " pituitary"
+    },
+    "2256.jpg": {
+        "class": " pituitary"
+    },
+    "2257.jpg": {
+        "class": " pituitary"
+    },
+    "2258.jpg": {
+        "class": " pituitary"
+    },
+    "2259.jpg": {
+        "class": " pituitary"
+    },
+    "2260.jpg": {
+        "class": " pituitary"
+    },
+    "2261.jpg": {
+        "class": " pituitary"
+    },
+    "2262.jpg": {
+        "class": " pituitary"
+    },
+    "2263.jpg": {
+        "class": " pituitary"
+    },
+    "2264.jpg": {
+        "class": " pituitary"
+    },
+    "2265.jpg": {
+        "class": " pituitary"
+    },
+    "2266.jpg": {
+        "class": " pituitary"
+    },
+    "2267.jpg": {
+        "class": " pituitary"
+    },
+    "2268.jpg": {
+        "class": " pituitary"
+    },
+    "2269.jpg": {
+        "class": " pituitary"
+    },
+    "2270.jpg": {
+        "class": " pituitary"
+    },
+    "2271.jpg": {
+        "class": " pituitary"
+    },
+    "2272.jpg": {
+        "class": " pituitary"
+    },
+    "2273.jpg": {
+        "class": " pituitary"
+    },
+    "2274.jpg": {
+        "class": " pituitary"
+    },
+    "2275.jpg": {
+        "class": " pituitary"
+    },
+    "2276.jpg": {
+        "class": " pituitary"
+    },
+    "2277.jpg": {
+        "class": " pituitary"
+    },
+    "2278.jpg": {
+        "class": " pituitary"
+    },
+    "2279.jpg": {
+        "class": " pituitary"
+    },
+    "2280.jpg": {
+        "class": " pituitary"
+    },
+    "2281.jpg": {
+        "class": " pituitary"
+    },
+    "2282.jpg": {
+        "class": " pituitary"
+    },
+    "2283.jpg": {
+        "class": " pituitary"
+    },
+    "2284.jpg": {
+        "class": " pituitary"
+    },
+    "2285.jpg": {
+        "class": " pituitary"
+    },
+    "2286.jpg": {
+        "class": " pituitary"
+    },
+    "2287.jpg": {
+        "class": " pituitary"
+    },
+    "2288.jpg": {
+        "class": " pituitary"
+    },
+    "2289.jpg": {
+        "class": " pituitary"
+    },
+    "2290.jpg": {
+        "class": " pituitary"
+    },
+    "2291.jpg": {
+        "class": " pituitary"
+    },
+    "2292.jpg": {
+        "class": " pituitary"
+    },
+    "2293.jpg": {
+        "class": " pituitary"
+    },
+    "2294.jpg": {
+        "class": " pituitary"
+    },
+    "2295.jpg": {
+        "class": " pituitary"
+    },
+    "2296.jpg": {
+        "class": " pituitary"
+    },
+    "2297.jpg": {
+        "class": " pituitary"
+    },
+    "2298.jpg": {
+        "class": " pituitary"
+    },
+    "2299.jpg": {
+        "class": " pituitary"
+    },
+    "2300.jpg": {
+        "class": " pituitary"
+    },
+    "2301.jpg": {
+        "class": " pituitary"
+    },
+    "2302.jpg": {
+        "class": " pituitary"
+    },
+    "2303.jpg": {
+        "class": " pituitary"
+    },
+    "2304.jpg": {
+        "class": " pituitary"
+    },
+    "2305.jpg": {
+        "class": " pituitary"
+    },
+    "2306.jpg": {
+        "class": " pituitary"
+    },
+    "2307.jpg": {
+        "class": " pituitary"
+    },
+    "2308.jpg": {
+        "class": " pituitary"
+    },
+    "2309.jpg": {
+        "class": " pituitary"
+    },
+    "2310.jpg": {
+        "class": " pituitary"
+    },
+    "2311.jpg": {
+        "class": " pituitary"
+    },
+    "2312.jpg": {
+        "class": " pituitary"
+    },
+    "2313.jpg": {
+        "class": " pituitary"
+    },
+    "2314.jpg": {
+        "class": " pituitary"
+    },
+    "2315.jpg": {
+        "class": " pituitary"
+    },
+    "2316.jpg": {
+        "class": " pituitary"
+    },
+    "2317.jpg": {
+        "class": " pituitary"
+    },
+    "2318.jpg": {
+        "class": " pituitary"
+    },
+    "2319.jpg": {
+        "class": " pituitary"
+    },
+    "2320.jpg": {
+        "class": " pituitary"
+    },
+    "2321.jpg": {
+        "class": " pituitary"
+    },
+    "2322.jpg": {
+        "class": " pituitary"
+    },
+    "2323.jpg": {
+        "class": " pituitary"
+    },
+    "2324.jpg": {
+        "class": " pituitary"
+    },
+    "2325.jpg": {
+        "class": " pituitary"
+    },
+    "2326.jpg": {
+        "class": " pituitary"
+    },
+    "2327.jpg": {
+        "class": " pituitary"
+    },
+    "2328.jpg": {
+        "class": " pituitary"
+    },
+    "2329.jpg": {
+        "class": " pituitary"
+    },
+    "2330.jpg": {
+        "class": " pituitary"
+    },
+    "2331.jpg": {
+        "class": " pituitary"
+    },
+    "2332.jpg": {
+        "class": " pituitary"
+    },
+    "2333.jpg": {
+        "class": " pituitary"
+    },
+    "2334.jpg": {
+        "class": " pituitary"
+    },
+    "2335.jpg": {
+        "class": " pituitary"
+    },
+    "2336.jpg": {
+        "class": " pituitary"
+    },
+    "2337.jpg": {
+        "class": " pituitary"
+    },
+    "2338.jpg": {
+        "class": " pituitary"
+    },
+    "2339.jpg": {
+        "class": " pituitary"
+    },
+    "2340.jpg": {
+        "class": " pituitary"
+    },
+    "2341.jpg": {
+        "class": " pituitary"
+    },
+    "2342.jpg": {
+        "class": " pituitary"
+    },
+    "2343.jpg": {
+        "class": " pituitary"
+    },
+    "2344.jpg": {
+        "class": " pituitary"
+    },
+    "2345.jpg": {
+        "class": " pituitary"
+    },
+    "2346.jpg": {
+        "class": " pituitary"
+    },
+    "2347.jpg": {
+        "class": " pituitary"
+    },
+    "2348.jpg": {
+        "class": " pituitary"
+    },
+    "2349.jpg": {
+        "class": " pituitary"
+    },
+    "2350.jpg": {
+        "class": " pituitary"
+    },
+    "2351.jpg": {
+        "class": " pituitary"
+    },
+    "2352.jpg": {
+        "class": " pituitary"
+    },
+    "2353.jpg": {
+        "class": " pituitary"
+    },
+    "2354.jpg": {
+        "class": " pituitary"
+    },
+    "2355.jpg": {
+        "class": " pituitary"
+    },
+    "2356.jpg": {
+        "class": " pituitary"
+    },
+    "2357.jpg": {
+        "class": " pituitary"
+    },
+    "2358.jpg": {
+        "class": " pituitary"
+    },
+    "2359.jpg": {
+        "class": " pituitary"
+    },
+    "2360.jpg": {
+        "class": " pituitary"
+    },
+    "2361.jpg": {
+        "class": " pituitary"
+    },
+    "2362.jpg": {
+        "class": " pituitary"
+    },
+    "2363.jpg": {
+        "class": " pituitary"
+    },
+    "2364.jpg": {
+        "class": " pituitary"
+    },
+    "2365.jpg": {
+        "class": " pituitary"
+    },
+    "2366.jpg": {
+        "class": " pituitary"
+    },
+    "2367.jpg": {
+        "class": " pituitary"
+    },
+    "2368.jpg": {
+        "class": " pituitary"
+    },
+    "2369.jpg": {
+        "class": " pituitary"
+    },
+    "2370.jpg": {
+        "class": " pituitary"
+    },
+    "2371.jpg": {
+        "class": " pituitary"
+    },
+    "2372.jpg": {
+        "class": " pituitary"
+    },
+    "2373.jpg": {
+        "class": " pituitary"
+    },
+    "2374.jpg": {
+        "class": " pituitary"
+    },
+    "2375.jpg": {
+        "class": " pituitary"
+    },
+    "2376.jpg": {
+        "class": " pituitary"
+    },
+    "2377.jpg": {
+        "class": " pituitary"
+    },
+    "2378.jpg": {
+        "class": " pituitary"
+    },
+    "2379.jpg": {
+        "class": " pituitary"
+    },
+    "2380.jpg": {
+        "class": " pituitary"
+    },
+    "2381.jpg": {
+        "class": " pituitary"
+    },
+    "2382.jpg": {
+        "class": " pituitary"
+    },
+    "2383.jpg": {
+        "class": " pituitary"
+    },
+    "2384.jpg": {
+        "class": " pituitary"
+    },
+    "2385.jpg": {
+        "class": " pituitary"
+    },
+    "2386.jpg": {
+        "class": " pituitary"
+    },
+    "2387.jpg": {
+        "class": " pituitary"
+    },
+    "2388.jpg": {
+        "class": " pituitary"
+    },
+    "2389.jpg": {
+        "class": " pituitary"
+    },
+    "2390.jpg": {
+        "class": " pituitary"
+    },
+    "2391.jpg": {
+        "class": " pituitary"
+    },
+    "2392.jpg": {
+        "class": " pituitary"
+    },
+    "2393.jpg": {
+        "class": " pituitary"
+    },
+    "2394.jpg": {
+        "class": " pituitary"
+    },
+    "2395.jpg": {
+        "class": " pituitary"
+    },
+    "2396.jpg": {
+        "class": " pituitary"
+    },
+    "2397.jpg": {
+        "class": " pituitary"
+    },
+    "2398.jpg": {
+        "class": " pituitary"
+    },
+    "2399.jpg": {
+        "class": " pituitary"
+    },
+    "2400.jpg": {
+        "class": " pituitary"
+    },
+    "2401.jpg": {
+        "class": " pituitary"
+    },
+    "2402.jpg": {
+        "class": " pituitary"
+    },
+    "2403.jpg": {
+        "class": " pituitary"
+    },
+    "2404.jpg": {
+        "class": " pituitary"
+    },
+    "2405.jpg": {
+        "class": " pituitary"
+    },
+    "2406.jpg": {
+        "class": " pituitary"
+    },
+    "2407.jpg": {
+        "class": " pituitary"
+    },
+    "2408.jpg": {
+        "class": " pituitary"
+    },
+    "2409.jpg": {
+        "class": " pituitary"
+    },
+    "2410.jpg": {
+        "class": " pituitary"
+    },
+    "2411.jpg": {
+        "class": " pituitary"
+    },
+    "2412.jpg": {
+        "class": " pituitary"
+    },
+    "2413.jpg": {
+        "class": " pituitary"
+    },
+    "2414.jpg": {
+        "class": " pituitary"
+    },
+    "2415.jpg": {
+        "class": " pituitary"
+    },
+    "2416.jpg": {
+        "class": " pituitary"
+    },
+    "2417.jpg": {
+        "class": " pituitary"
+    },
+    "2418.jpg": {
+        "class": " pituitary"
+    },
+    "2419.jpg": {
+        "class": " pituitary"
+    },
+    "2420.jpg": {
+        "class": " pituitary"
+    },
+    "2421.jpg": {
+        "class": " pituitary"
+    },
+    "2422.jpg": {
+        "class": " pituitary"
+    },
+    "2423.jpg": {
+        "class": " pituitary"
+    },
+    "2424.jpg": {
+        "class": " pituitary"
+    },
+    "2425.jpg": {
+        "class": " pituitary"
+    },
+    "2426.jpg": {
+        "class": " pituitary"
+    },
+    "2427.jpg": {
+        "class": " pituitary"
+    },
+    "2428.jpg": {
+        "class": " pituitary"
+    },
+    "2429.jpg": {
+        "class": " pituitary"
+    },
+    "2430.jpg": {
+        "class": " pituitary"
+    },
+    "2431.jpg": {
+        "class": " pituitary"
+    },
+    "2432.jpg": {
+        "class": " pituitary"
+    },
+    "2433.jpg": {
+        "class": " pituitary"
+    },
+    "2434.jpg": {
+        "class": " pituitary"
+    },
+    "2435.jpg": {
+        "class": " pituitary"
+    },
+    "2436.jpg": {
+        "class": " pituitary"
+    },
+    "2437.jpg": {
+        "class": " pituitary"
+    },
+    "2438.jpg": {
+        "class": " pituitary"
+    },
+    "2439.jpg": {
+        "class": " pituitary"
+    },
+    "2440.jpg": {
+        "class": " pituitary"
+    },
+    "2441.jpg": {
+        "class": " pituitary"
+    },
+    "2442.jpg": {
+        "class": " pituitary"
+    },
+    "2443.jpg": {
+        "class": " pituitary"
+    },
+    "2444.jpg": {
+        "class": " pituitary"
+    },
+    "2445.jpg": {
+        "class": " pituitary"
+    },
+    "2446.jpg": {
+        "class": " pituitary"
+    },
+    "2447.jpg": {
+        "class": " pituitary"
+    },
+    "2448.jpg": {
+        "class": " pituitary"
+    },
+    "2449.jpg": {
+        "class": " pituitary"
+    },
+    "2450.jpg": {
+        "class": " pituitary"
+    },
+    "2451.jpg": {
+        "class": " pituitary"
+    },
+    "2452.jpg": {
+        "class": " pituitary"
+    },
+    "2453.jpg": {
+        "class": " pituitary"
+    },
+    "2454.jpg": {
+        "class": " pituitary"
+    },
+    "2455.jpg": {
+        "class": " pituitary"
+    },
+    "2456.jpg": {
+        "class": " pituitary"
+    },
+    "2457.jpg": {
+        "class": " pituitary"
+    },
+    "2458.jpg": {
+        "class": " pituitary"
+    },
+    "2459.jpg": {
+        "class": " pituitary"
+    },
+    "2460.jpg": {
+        "class": " pituitary"
+    },
+    "2461.jpg": {
+        "class": " pituitary"
+    },
+    "2462.jpg": {
+        "class": " pituitary"
+    },
+    "2463.jpg": {
+        "class": " pituitary"
+    },
+    "2464.jpg": {
+        "class": " pituitary"
+    },
+    "2465.jpg": {
+        "class": " pituitary"
+    },
+    "2466.jpg": {
+        "class": " pituitary"
+    },
+    "2467.jpg": {
+        "class": " pituitary"
+    },
+    "2468.jpg": {
+        "class": " pituitary"
+    },
+    "2469.jpg": {
+        "class": " pituitary"
+    },
+    "2470.jpg": {
+        "class": " pituitary"
+    },
+    "2471.jpg": {
+        "class": " pituitary"
+    },
+    "2472.jpg": {
+        "class": " pituitary"
+    },
+    "2473.jpg": {
+        "class": " pituitary"
+    },
+    "2474.jpg": {
+        "class": " pituitary"
+    },
+    "2475.jpg": {
+        "class": "glioma"
+    },
+    "2476.jpg": {
+        "class": "glioma"
+    },
+    "2477.jpg": {
+        "class": "glioma"
+    },
+    "2478.jpg": {
+        "class": "glioma"
+    },
+    "2479.jpg": {
+        "class": "glioma"
+    },
+    "2480.jpg": {
+        "class": "glioma"
+    },
+    "2481.jpg": {
+        "class": "glioma"
+    },
+    "2482.jpg": {
+        "class": "glioma"
+    },
+    "2483.jpg": {
+        "class": "glioma"
+    },
+    "2484.jpg": {
+        "class": "glioma"
+    },
+    "2485.jpg": {
+        "class": "glioma"
+    },
+    "2486.jpg": {
+        "class": "glioma"
+    },
+    "2487.jpg": {
+        "class": "glioma"
+    },
+    "2488.jpg": {
+        "class": "glioma"
+    },
+    "2489.jpg": {
+        "class": "glioma"
+    },
+    "2490.jpg": {
+        "class": "glioma"
+    },
+    "2491.jpg": {
+        "class": "glioma"
+    },
+    "2492.jpg": {
+        "class": "glioma"
+    },
+    "2493.jpg": {
+        "class": "glioma"
+    },
+    "2494.jpg": {
+        "class": "glioma"
+    },
+    "2495.jpg": {
+        "class": "glioma"
+    },
+    "2496.jpg": {
+        "class": "glioma"
+    },
+    "2497.jpg": {
+        "class": "glioma"
+    },
+    "2498.jpg": {
+        "class": "glioma"
+    },
+    "2499.jpg": {
+        "class": "glioma"
+    },
+    "2500.jpg": {
+        "class": "glioma"
+    },
+    "2501.jpg": {
+        "class": "glioma"
+    },
+    "2502.jpg": {
+        "class": "glioma"
+    },
+    "2503.jpg": {
+        "class": "glioma"
+    },
+    "2504.jpg": {
+        "class": "glioma"
+    },
+    "2505.jpg": {
+        "class": "glioma"
+    },
+    "2506.jpg": {
+        "class": "glioma"
+    },
+    "2507.jpg": {
+        "class": "glioma"
+    },
+    "2508.jpg": {
+        "class": "glioma"
+    },
+    "2509.jpg": {
+        "class": "glioma"
+    },
+    "2510.jpg": {
+        "class": "glioma"
+    },
+    "2511.jpg": {
+        "class": "glioma"
+    },
+    "2512.jpg": {
+        "class": "glioma"
+    },
+    "2513.jpg": {
+        "class": "glioma"
+    },
+    "2514.jpg": {
+        "class": "glioma"
+    },
+    "2515.jpg": {
+        "class": "glioma"
+    },
+    "2516.jpg": {
+        "class": "glioma"
+    },
+    "2517.jpg": {
+        "class": "glioma"
+    },
+    "2518.jpg": {
+        "class": "glioma"
+    },
+    "2519.jpg": {
+        "class": "glioma"
+    },
+    "2520.jpg": {
+        "class": "glioma"
+    },
+    "2521.jpg": {
+        "class": "glioma"
+    },
+    "2522.jpg": {
+        "class": "glioma"
+    },
+    "2523.jpg": {
+        "class": "glioma"
+    },
+    "2524.jpg": {
+        "class": "glioma"
+    },
+    "2525.jpg": {
+        "class": "glioma"
+    },
+    "2526.jpg": {
+        "class": "glioma"
+    },
+    "2527.jpg": {
+        "class": "glioma"
+    },
+    "2528.jpg": {
+        "class": "glioma"
+    },
+    "2529.jpg": {
+        "class": "glioma"
+    },
+    "2530.jpg": {
+        "class": "glioma"
+    },
+    "2531.jpg": {
+        "class": "glioma"
+    },
+    "2532.jpg": {
+        "class": "glioma"
+    },
+    "2533.jpg": {
+        "class": "glioma"
+    },
+    "2534.jpg": {
+        "class": "glioma"
+    },
+    "2535.jpg": {
+        "class": "glioma"
+    },
+    "2536.jpg": {
+        "class": "glioma"
+    },
+    "2537.jpg": {
+        "class": "glioma"
+    },
+    "2538.jpg": {
+        "class": "glioma"
+    },
+    "2539.jpg": {
+        "class": "glioma"
+    },
+    "2540.jpg": {
+        "class": "glioma"
+    },
+    "2541.jpg": {
+        "class": "glioma"
+    },
+    "2542.jpg": {
+        "class": "glioma"
+    },
+    "2543.jpg": {
+        "class": "glioma"
+    },
+    "2544.jpg": {
+        "class": "glioma"
+    },
+    "2545.jpg": {
+        "class": "glioma"
+    },
+    "2546.jpg": {
+        "class": "glioma"
+    },
+    "2547.jpg": {
+        "class": "glioma"
+    },
+    "2548.jpg": {
+        "class": "glioma"
+    },
+    "2549.jpg": {
+        "class": "glioma"
+    },
+    "2550.jpg": {
+        "class": "glioma"
+    },
+    "2551.jpg": {
+        "class": "glioma"
+    },
+    "2552.jpg": {
+        "class": "glioma"
+    },
+    "2553.jpg": {
+        "class": "glioma"
+    },
+    "2554.jpg": {
+        "class": "glioma"
+    },
+    "2555.jpg": {
+        "class": "glioma"
+    },
+    "2556.jpg": {
+        "class": "glioma"
+    },
+    "2557.jpg": {
+        "class": "glioma"
+    },
+    "2558.jpg": {
+        "class": "glioma"
+    },
+    "2559.jpg": {
+        "class": "glioma"
+    },
+    "2560.jpg": {
+        "class": "glioma"
+    },
+    "2561.jpg": {
+        "class": "glioma"
+    },
+    "2562.jpg": {
+        "class": "glioma"
+    },
+    "2563.jpg": {
+        "class": "glioma"
+    },
+    "2564.jpg": {
+        "class": "glioma"
+    },
+    "2565.jpg": {
+        "class": "glioma"
+    },
+    "2566.jpg": {
+        "class": "glioma"
+    },
+    "2567.jpg": {
+        "class": "glioma"
+    },
+    "2568.jpg": {
+        "class": "glioma"
+    },
+    "2569.jpg": {
+        "class": "glioma"
+    },
+    "2570.jpg": {
+        "class": "glioma"
+    },
+    "2571.jpg": {
+        "class": "glioma"
+    },
+    "2572.jpg": {
+        "class": "glioma"
+    },
+    "2573.jpg": {
+        "class": "glioma"
+    },
+    "2574.jpg": {
+        "class": "glioma"
+    },
+    "2575.jpg": {
+        "class": "meningioma"
+    },
+    "2576.jpg": {
+        "class": "meningioma"
+    },
+    "2577.jpg": {
+        "class": "meningioma"
+    },
+    "2578.jpg": {
+        "class": "meningioma"
+    },
+    "2579.jpg": {
+        "class": "meningioma"
+    },
+    "2580.jpg": {
+        "class": "meningioma"
+    },
+    "2581.jpg": {
+        "class": "meningioma"
+    },
+    "2582.jpg": {
+        "class": "meningioma"
+    },
+    "2583.jpg": {
+        "class": "meningioma"
+    },
+    "2584.jpg": {
+        "class": "meningioma"
+    },
+    "2585.jpg": {
+        "class": "meningioma"
+    },
+    "2586.jpg": {
+        "class": "meningioma"
+    },
+    "2587.jpg": {
+        "class": "meningioma"
+    },
+    "2588.jpg": {
+        "class": "meningioma"
+    },
+    "2589.jpg": {
+        "class": "meningioma"
+    },
+    "2590.jpg": {
+        "class": "meningioma"
+    },
+    "2591.jpg": {
+        "class": "meningioma"
+    },
+    "2592.jpg": {
+        "class": "meningioma"
+    },
+    "2593.jpg": {
+        "class": "meningioma"
+    },
+    "2594.jpg": {
+        "class": "meningioma"
+    },
+    "2595.jpg": {
+        "class": "meningioma"
+    },
+    "2596.jpg": {
+        "class": "meningioma"
+    },
+    "2597.jpg": {
+        "class": "meningioma"
+    },
+    "2598.jpg": {
+        "class": "meningioma"
+    },
+    "2599.jpg": {
+        "class": "meningioma"
+    },
+    "2600.jpg": {
+        "class": "meningioma"
+    },
+    "2601.jpg": {
+        "class": "meningioma"
+    },
+    "2602.jpg": {
+        "class": "meningioma"
+    },
+    "2603.jpg": {
+        "class": "meningioma"
+    },
+    "2604.jpg": {
+        "class": "meningioma"
+    },
+    "2605.jpg": {
+        "class": "meningioma"
+    },
+    "2606.jpg": {
+        "class": "meningioma"
+    },
+    "2607.jpg": {
+        "class": "meningioma"
+    },
+    "2608.jpg": {
+        "class": "meningioma"
+    },
+    "2609.jpg": {
+        "class": "meningioma"
+    },
+    "2610.jpg": {
+        "class": "meningioma"
+    },
+    "2611.jpg": {
+        "class": "meningioma"
+    },
+    "2612.jpg": {
+        "class": "meningioma"
+    },
+    "2613.jpg": {
+        "class": "meningioma"
+    },
+    "2614.jpg": {
+        "class": "meningioma"
+    },
+    "2615.jpg": {
+        "class": "meningioma"
+    },
+    "2616.jpg": {
+        "class": "meningioma"
+    },
+    "2617.jpg": {
+        "class": "meningioma"
+    },
+    "2618.jpg": {
+        "class": "meningioma"
+    },
+    "2619.jpg": {
+        "class": "meningioma"
+    },
+    "2620.jpg": {
+        "class": "meningioma"
+    },
+    "2621.jpg": {
+        "class": "meningioma"
+    },
+    "2622.jpg": {
+        "class": "meningioma"
+    },
+    "2623.jpg": {
+        "class": "meningioma"
+    },
+    "2624.jpg": {
+        "class": "meningioma"
+    },
+    "2625.jpg": {
+        "class": "meningioma"
+    },
+    "2626.jpg": {
+        "class": "meningioma"
+    },
+    "2627.jpg": {
+        "class": "meningioma"
+    },
+    "2628.jpg": {
+        "class": "meningioma"
+    },
+    "2629.jpg": {
+        "class": "meningioma"
+    },
+    "2630.jpg": {
+        "class": "meningioma"
+    },
+    "2631.jpg": {
+        "class": "meningioma"
+    },
+    "2632.jpg": {
+        "class": "meningioma"
+    },
+    "2633.jpg": {
+        "class": "meningioma"
+    },
+    "2634.jpg": {
+        "class": "meningioma"
+    },
+    "2635.jpg": {
+        "class": "meningioma"
+    },
+    "2636.jpg": {
+        "class": "meningioma"
+    },
+    "2637.jpg": {
+        "class": "meningioma"
+    },
+    "2638.jpg": {
+        "class": "meningioma"
+    },
+    "2639.jpg": {
+        "class": "meningioma"
+    },
+    "2640.jpg": {
+        "class": "meningioma"
+    },
+    "2641.jpg": {
+        "class": "meningioma"
+    },
+    "2642.jpg": {
+        "class": "meningioma"
+    },
+    "2643.jpg": {
+        "class": "meningioma"
+    },
+    "2644.jpg": {
+        "class": "meningioma"
+    },
+    "2645.jpg": {
+        "class": "meningioma"
+    },
+    "2646.jpg": {
+        "class": "meningioma"
+    },
+    "2647.jpg": {
+        "class": "meningioma"
+    },
+    "2648.jpg": {
+        "class": "meningioma"
+    },
+    "2649.jpg": {
+        "class": "meningioma"
+    },
+    "2650.jpg": {
+        "class": "meningioma"
+    },
+    "2651.jpg": {
+        "class": "meningioma"
+    },
+    "2652.jpg": {
+        "class": "meningioma"
+    },
+    "2653.jpg": {
+        "class": "meningioma"
+    },
+    "2654.jpg": {
+        "class": "meningioma"
+    },
+    "2655.jpg": {
+        "class": "meningioma"
+    },
+    "2656.jpg": {
+        "class": "meningioma"
+    },
+    "2657.jpg": {
+        "class": "meningioma"
+    },
+    "2658.jpg": {
+        "class": "meningioma"
+    },
+    "2659.jpg": {
+        "class": "meningioma"
+    },
+    "2660.jpg": {
+        "class": "meningioma"
+    },
+    "2661.jpg": {
+        "class": "meningioma"
+    },
+    "2662.jpg": {
+        "class": "meningioma"
+    },
+    "2663.jpg": {
+        "class": "meningioma"
+    },
+    "2664.jpg": {
+        "class": "meningioma"
+    },
+    "2665.jpg": {
+        "class": "meningioma"
+    },
+    "2666.jpg": {
+        "class": "meningioma"
+    },
+    "2667.jpg": {
+        "class": "meningioma"
+    },
+    "2668.jpg": {
+        "class": "meningioma"
+    },
+    "2669.jpg": {
+        "class": "meningioma"
+    },
+    "2670.jpg": {
+        "class": "meningioma"
+    },
+    "2671.jpg": {
+        "class": "meningioma"
+    },
+    "2672.jpg": {
+        "class": "meningioma"
+    },
+    "2673.jpg": {
+        "class": "meningioma"
+    },
+    "2674.jpg": {
+        "class": "meningioma"
+    },
+    "2675.jpg": {
+        "class": "meningioma"
+    },
+    "2676.jpg": {
+        "class": "meningioma"
+    },
+    "2677.jpg": {
+        "class": "meningioma"
+    },
+    "2678.jpg": {
+        "class": "meningioma"
+    },
+    "2679.jpg": {
+        "class": "meningioma"
+    },
+    "2680.jpg": {
+        "class": "meningioma"
+    },
+    "2681.jpg": {
+        "class": "meningioma"
+    },
+    "2682.jpg": {
+        "class": "meningioma"
+    },
+    "2683.jpg": {
+        "class": "meningioma"
+    },
+    "2684.jpg": {
+        "class": "meningioma"
+    },
+    "2685.jpg": {
+        "class": "meningioma"
+    },
+    "2686.jpg": {
+        "class": "meningioma"
+    },
+    "2687.jpg": {
+        "class": "meningioma"
+    },
+    "2688.jpg": {
+        "class": "meningioma"
+    },
+    "2689.jpg": {
+        "class": "meningioma"
+    },
+    "2690.jpg": {
+        "class": " pituitary"
+    },
+    "2691.jpg": {
+        "class": " pituitary"
+    },
+    "2692.jpg": {
+        "class": " pituitary"
+    },
+    "2693.jpg": {
+        "class": " pituitary"
+    },
+    "2694.jpg": {
+        "class": " pituitary"
+    },
+    "2695.jpg": {
+        "class": " pituitary"
+    },
+    "2696.jpg": {
+        "class": " pituitary"
+    },
+    "2697.jpg": {
+        "class": " pituitary"
+    },
+    "2698.jpg": {
+        "class": " pituitary"
+    },
+    "2699.jpg": {
+        "class": " pituitary"
+    },
+    "2700.jpg": {
+        "class": " pituitary"
+    },
+    "2701.jpg": {
+        "class": " pituitary"
+    },
+    "2702.jpg": {
+        "class": " pituitary"
+    },
+    "2703.jpg": {
+        "class": " pituitary"
+    },
+    "2704.jpg": {
+        "class": " pituitary"
+    },
+    "2705.jpg": {
+        "class": " pituitary"
+    },
+    "2706.jpg": {
+        "class": " pituitary"
+    },
+    "2707.jpg": {
+        "class": " pituitary"
+    },
+    "2708.jpg": {
+        "class": " pituitary"
+    },
+    "2709.jpg": {
+        "class": " pituitary"
+    },
+    "2710.jpg": {
+        "class": " pituitary"
+    },
+    "2711.jpg": {
+        "class": " pituitary"
+    },
+    "2712.jpg": {
+        "class": " pituitary"
+    },
+    "2713.jpg": {
+        "class": " pituitary"
+    },
+    "2714.jpg": {
+        "class": " pituitary"
+    },
+    "2715.jpg": {
+        "class": " pituitary"
+    },
+    "2716.jpg": {
+        "class": " pituitary"
+    },
+    "2717.jpg": {
+        "class": " pituitary"
+    },
+    "2718.jpg": {
+        "class": " pituitary"
+    },
+    "2719.jpg": {
+        "class": " pituitary"
+    },
+    "2720.jpg": {
+        "class": " pituitary"
+    },
+    "2721.jpg": {
+        "class": " pituitary"
+    },
+    "2722.jpg": {
+        "class": " pituitary"
+    },
+    "2723.jpg": {
+        "class": " pituitary"
+    },
+    "2724.jpg": {
+        "class": " pituitary"
+    },
+    "2725.jpg": {
+        "class": " pituitary"
+    },
+    "2726.jpg": {
+        "class": " pituitary"
+    },
+    "2727.jpg": {
+        "class": " pituitary"
+    },
+    "2728.jpg": {
+        "class": " pituitary"
+    },
+    "2729.jpg": {
+        "class": " pituitary"
+    },
+    "2730.jpg": {
+        "class": " pituitary"
+    },
+    "2731.jpg": {
+        "class": " pituitary"
+    },
+    "2732.jpg": {
+        "class": " pituitary"
+    },
+    "2733.jpg": {
+        "class": " pituitary"
+    },
+    "2734.jpg": {
+        "class": " pituitary"
+    },
+    "2735.jpg": {
+        "class": " pituitary"
+    },
+    "2736.jpg": {
+        "class": " pituitary"
+    },
+    "2737.jpg": {
+        "class": " pituitary"
+    },
+    "2738.jpg": {
+        "class": " pituitary"
+    },
+    "2739.jpg": {
+        "class": " pituitary"
+    },
+    "2740.jpg": {
+        "class": " pituitary"
+    },
+    "2741.jpg": {
+        "class": " pituitary"
+    },
+    "2742.jpg": {
+        "class": " pituitary"
+    },
+    "2743.jpg": {
+        "class": " pituitary"
+    },
+    "2744.jpg": {
+        "class": " pituitary"
+    },
+    "2745.jpg": {
+        "class": " pituitary"
+    },
+    "2746.jpg": {
+        "class": " pituitary"
+    },
+    "2747.jpg": {
+        "class": " pituitary"
+    },
+    "2748.jpg": {
+        "class": " pituitary"
+    },
+    "2749.jpg": {
+        "class": " pituitary"
+    },
+    "2750.jpg": {
+        "class": " pituitary"
+    },
+    "2751.jpg": {
+        "class": " pituitary"
+    },
+    "2752.jpg": {
+        "class": " pituitary"
+    },
+    "2753.jpg": {
+        "class": " pituitary"
+    },
+    "2754.jpg": {
+        "class": " pituitary"
+    },
+    "2755.jpg": {
+        "class": " pituitary"
+    },
+    "2756.jpg": {
+        "class": " pituitary"
+    },
+    "2757.jpg": {
+        "class": " pituitary"
+    },
+    "2758.jpg": {
+        "class": " pituitary"
+    },
+    "2759.jpg": {
+        "class": " pituitary"
+    },
+    "2760.jpg": {
+        "class": " pituitary"
+    },
+    "2761.jpg": {
+        "class": " pituitary"
+    },
+    "2762.jpg": {
+        "class": " pituitary"
+    },
+    "2763.jpg": {
+        "class": " pituitary"
+    }
+}

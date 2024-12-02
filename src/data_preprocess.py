@@ -30,8 +30,6 @@ def inspect_data(df):
     """
     Inspect the data
     """
-
-    print("\nDataframe preview: \n",df)
     print("Number of unique classes: ",df['Class'].nunique())
     print("Occurences of each class:", df['Class'].value_counts().to_dict())
 
@@ -49,7 +47,7 @@ def one_hot_encode(df):
     
     return df_encoded
 
-def df_to_torch_tensor(df,image_folder_path, H_in=492, W_in=492):
+def df_to_torch_tensor(df,image_folder_path, H_in=300, W_in=300):
     """
     Convert the dataframe to a torch tensor.
     Imput:
@@ -77,9 +75,6 @@ def df_to_torch_tensor(df,image_folder_path, H_in=492, W_in=492):
             img = img.unsqueeze(0)
 
             X[i] = img
-
-            if i % 10 == 0:
-                print(f"\rLoaded {i} images", end='', flush=True)
 
     return X,Y
 

@@ -8,12 +8,33 @@ class CNN(nn.Module):
     Create a LeNet-5 CNN with 3 convolutional layers and 2 pooling layers, followed by 2 fully connected layers.
     """
 
-    def __init__(self, N_in = 1, N_out = 3, H_in = 492, W_in = 492, hidden_channels = [6,6,6,16,16], kernels=[5,5,5,5,5], strides=[1,2,1,5,5],paddings=[1,1,1,1]):
+    def __init__(self, 
+                 N_in = 1, 
+                 N_out = 3, 
+                 H_in = 492, 
+                 W_in = 492, 
+                 hidden_channels = [6,6,6,16,16], 
+                 kernels=[5,5,5,5,5], 
+                 strides=[1,2,1,5,5], 
+                 paddings=[1,2,2],
+                 hidden_layers= [128,50]):
+        
         """
         N_in: int with the number of input channels 
         Hidden_channels: list with the number of channels in each convolutional layer
+        Kernels: list with the size of the kernel in each convolutional and pooling layer
+        Strides: list with the stride in each convolutional and pooling layer
+        Paddings: list with the padding in each convolutional layer
         N_out: int with the number of output classes
         """
+        self.H_in = H_in
+        self.W_in = W_in
+        self.hidden_channels = hidden_channels
+        self.hidden_layers = hidden_layers
+        self.kernels = kernels
+        self.strides = strides
+        self.paddings = paddings
+
         
         super(CNN, self).__init__()
 
@@ -24,23 +45,22 @@ class CNN(nn.Module):
                                 stride=strides[0],
                                 padding=paddings[0])
         
+        self.pool1 = nn.MaxPool2d(kernel_size=kernels[1], stride=strides[1])
+        
         self.conv2 = nn.Conv2d(in_channels=hidden_channels[0],
                                 out_channels=hidden_channels[1], 
-                                kernel_size=kernels[1], 
-                                stride=strides[1],
+                                kernel_size=kernels[2], 
+                                stride=strides[2],
                                 padding=paddings[1])
+        
+        self.pool2 = nn.MaxPool2d(kernel_size=kernels[3], stride=strides[3])
         
         self.conv3 = nn.Conv2d(in_channels=hidden_channels[1],
                                 out_channels=hidden_channels[2], 
-                                kernel_size=kernels[2], 
-                                stride=strides[2],
+                                kernel_size=kernels[4], 
+                                stride=strides[4],
                                 padding=paddings[2])
 
-        # Pooling layers
-        self.pool1 = nn.MaxPool2d(kernel_size=kernels[3], stride=strides[3])
-        self.pool2 = nn.MaxPool2d(kernel_size=kernels[4], stride=strides[4])
-
-        # Fully connected layers
 
         # Calculate the size of the feature map after the final pooling layer
         def conv2d_size_out(size, kernel_size, stride, padding):
@@ -48,33 +68,37 @@ class CNN(nn.Module):
 
         # Height calculation
         H_out = conv2d_size_out(H_in, kernels[0], strides[0], paddings[0])  # After conv1
-        H_out = conv2d_size_out(H_out, kernels[1], strides[1], paddings[1])  # After conv2
-        H_out = conv2d_size_out(H_out, kernels[2], strides[2], paddings[2])  # After conv3
-        H_out = conv2d_size_out(H_out, kernels[3], strides[3], 0)           # After pool1
-        H_out = conv2d_size_out(H_out, kernels[4], strides[4], 0)           # After pool2
+        H_out = conv2d_size_out(H_out, kernels[1], strides[1], 0)           # After pool1
+        H_out = conv2d_size_out(H_out, kernels[2], strides[2], paddings[1])  # After conv2
+        H_out = conv2d_size_out(H_out, kernels[3], strides[3], 0)           # After pool2
+        H_out = conv2d_size_out(H_out, kernels[4], strides[4], paddings[2])  # After conv3
 
         # Width calculation
         W_out = conv2d_size_out(W_in, kernels[0], strides[0], paddings[0])  # After conv1
-        W_out = conv2d_size_out(W_out, kernels[1], strides[1], paddings[1])  # After conv2
-        W_out = conv2d_size_out(W_out, kernels[2], strides[2], paddings[2])  # After conv3
-        W_out = conv2d_size_out(W_out, kernels[3], strides[3], 0)           # After pool1
-        W_out = conv2d_size_out(W_out, kernels[4], strides[4], 0)           # After pool2
+        W_out = conv2d_size_out(W_out, kernels[1], strides[1], 0)           # After pool1
+        W_out = conv2d_size_out(W_out, kernels[2], strides[2], paddings[1])  # After conv2
+        W_out = conv2d_size_out(W_out, kernels[3], strides[3], 0)           # After pool2
+        W_out = conv2d_size_out(W_out, kernels[4], strides[4], paddings[2])  # After conv3
+
 
         # Fully connected layers
-        self.fc1 = nn.Linear(hidden_channels[2] * H_out * W_out, 128)
-        self.fc2 = nn.Linear(128, N_out)
-
+        self.fc1 = nn.Linear(hidden_channels[2] * H_out * W_out, hidden_layers[0])
+        self.fc2 = nn.Linear(hidden_layers[0], hidden_layers[1])
+        self.out = nn.Linear(hidden_layers[1], N_out)
 
     def forward(self, x):
-        x = F.relu(self.conv1(x))
-        x = F.relu(self.conv2(x))
-        x = F.relu(self.conv3(x))
-        x = self.pool1(x)
-        x = self.pool2(x)
+        x = self.conv1(x)
+        x = self.pool1(F.relu(x))
+        x = self.conv2(x)
+        x = self.pool2(F.relu(x))
+        x = self.conv3(x)
+
         x = x.view(-1, self.num_flat_features(x))
         x = F.relu(self.fc1(x))
-        x = self.fc2(x)
-        x = F.softmax(x, dim=1)
+        x = F.relu(self.fc2(x))
+        x = self.out(x)
+
+        # No softmax here because we are using cross-entropy loss which already applies softmax
         return x
     
     def num_flat_features(self, x):
@@ -88,5 +112,51 @@ class CNN(nn.Module):
         for s in size:
             num_features *= s
         return num_features
+
+
+    def info(self):
+        """
+        Print the information of the network
+        """
+
+        def conv2d_size_out(size, kernel_size, stride, padding):
+            return (size + 2*padding - (kernel_size - 1) - 1) // stride + 1
+        
+        print("\n------------Network information------------")
+
+        print(f"Input size: {self.H_in}x{self.W_in}")
+
+        H_out = conv2d_size_out(self.H_in, self.kernels[0], self.strides[0], self.paddings[0])  # After conv1
+        W_out = conv2d_size_out(self.W_in, self.kernels[0], self.strides[0], self.paddings[0])  
+
+        print(f"Convolutional layer 1 size: {H_out}x{W_out}x{self.hidden_channels[0]}")
+
+        H_out = conv2d_size_out(H_out, self.kernels[1], self.strides[1], 0)           # After pool1
+        W_out = conv2d_size_out(W_out, self.kernels[1], self.strides[1], 0)
+
+        print(f"Pooling layer 1 size: {H_out}x{W_out}x{self.hidden_channels[0]}")
+
+        H_out = conv2d_size_out(H_out, self.kernels[2], self.strides[2], self.paddings[1])  # After conv2
+        W_out = conv2d_size_out(W_out, self.kernels[2], self.strides[2], self.paddings[1])
+
+        print(f"Convolutional layer 2 size: {H_out}x{W_out}x{self.hidden_channels[1]}")
+
+        H_out = conv2d_size_out(H_out, self.kernels[3], self.strides[3], 0)           # After pool2
+        W_out = conv2d_size_out(W_out, self.kernels[3], self.strides[3], 0)
+
+        print(f"Pooling layer 2 size: {H_out}x{W_out}x{self.hidden_channels[1]}")
+
+        H_out = conv2d_size_out(H_out, self.kernels[4], self.strides[4], self.paddings[2])  # After conv3
+        W_out = conv2d_size_out(W_out, self.kernels[4], self.strides[4], self.paddings[2])
+
+        print(f"Convolutional layer 3 size: {H_out}x{W_out}x{self.hidden_channels[2]}")
+
+        print(f"Flatened size: {H_out*W_out*self.hidden_channels[2]}")
+
+        print(f"Hiddem layer 1 size: {self.hidden_layers[0]}")
+
+        print(f"Hiddem layer 2 size: {self.hidden_layers[1]}")
+
+        print("------------------------------------------\n")
 
 

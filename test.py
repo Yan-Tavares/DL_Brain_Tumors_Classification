@@ -16,7 +16,7 @@ net = CNN(N_in              = 1,
           kernels           = [5,5,5,5,5], #Original was [3,3,3,3,3] # Best [5,5,5,5,5]
           strides           = [1,5,1,5,1], #Original was [1,2,1,2,1] # Best [1,5,1,5,1]
           paddings          = [2,2,2], #Original was [1,1,1] # Best [2,2,2]
-          hidden_layers     = [150,15]) #Original was 128 # Best [150,15]
+          hidden_layers     = [150,15])
 
 net.load_state_dict(torch.load('models/CNN_Minima.pth'))
 
